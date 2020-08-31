@@ -49,11 +49,11 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 * [eris](https://github.com/abalabahaha/eris "eris")
+* [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [discord.io](https://github.com/izy521/discord.io "discord.io") (discontinued)
 * [discord.js](https://github.com/discordjs/discord.js "discord.js")
 * [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
 * [discordie](https://github.com/qeled/discordie "discordie") (discontinued)
-* [detritus](https://github.com/detritusjs/client "detritus")
 
 ### [Julia](https://julialang.org "Julia")
 * [Discord-jl](https://github.com/Xh4H/Discord.jl "Discord.jl")
