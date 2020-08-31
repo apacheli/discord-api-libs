@@ -15,5 +15,5 @@ like so:
 * [repo_name](repo_url "repo_name")
 ```
 
-Some discontinued libraries are listed for historical purposes. Libraries will automatically be marked
-as discontinued if they haven't had a commit in 1 year.
+Some discontinued libraries are listed for historical purposes. No more discontinued libraries will
+be added, and any unactively maintained libraries may be removed in the future.

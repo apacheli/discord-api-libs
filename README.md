@@ -1,6 +1,10 @@
 # Discord API Community Libraries
 You can find a list of Discord API libraries here. Libraries are sorted alphabetically by language and name.
 
+## Useful Links
+* [Discord Developer Documentation](https://discord.com/developers/docs)
+* [Discord API Server](https://discord.gg/discord-api)
+
 ## Libraries
 
 ### [.NET](https://dotnet.microsoft.com ".NET")
