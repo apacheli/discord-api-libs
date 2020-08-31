@@ -7,9 +7,13 @@ libraries must fulfill these requirements:
 * Must have a future. The library in question doesn't have to be completed at the time of submitting, but
 must at least be maintained.
 * Must be written in a known language. Esolangs are not allowed.
+* If you do not own the library, make sure to contact the owner first before submitting.
 
 When adding a library, it must be sorted alphabetically by language and name. It must be formatted
 like so:
 ```md
 * [repo_name](repo_url "repo_name")
 ```
+
+Some discontinued libraries are listed for historical purposes. Libraries will automatically be marked
+as discontinued if they haven't had a commit in 1 year.
