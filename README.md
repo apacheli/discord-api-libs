@@ -64,7 +64,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Julia](https://julialang.org "Julia")
 * [Discord-jl](https://github.com/Xh4H/Discord.jl "Discord.jl")
 
-### Kotlin
+### [Kotlin](https://kotlinlang.org "Kotlin")
 * [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 * [kord](https://github.com/kordlib/kord "kord")
 
@@ -104,6 +104,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord "SwiftDiscord")
 * [Sword](https://github.com/Azoy/Sword "Sword")
 
-### TypeScript
+### [TypeScript](https://www.typescriptlang.org "TypeScript")
 * [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
