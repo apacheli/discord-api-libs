@@ -2,20 +2,22 @@
 You can find a list of Discord API libraries here. Libraries are sorted alphabetically by language and name.
 
 ## Useful Links
-* [Discord Developer Documentation](https://discord.com/developers/docs)
-* [Discord API Server](https://discord.gg/discord-api)
+* [Discord Developer Documentation](https://discord.com/developers/docs "Discord Developer Documentation")
+* [Discord API Server](https://discord.gg/discord-api "Discord API Server")
 
 ## Libraries
 
 ### [.NET](https://dotnet.microsoft.com ".NET")
 * [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 * [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")
+* [Disqord](https://github.com/Quahu/Disqord "Disqord")
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 * [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
 
 ### [C++](https://www.cplusplus.com "C++")
 * [aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")
-* [DisC++](https://github.com/DisCPP/DisCPP "DisCPP")
+* [discordpp](https://github.com/DiscordPP/discordpp "discordpp")
+* [DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")
 * [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
 
 ### [Clojure](https://clojure.org "Clojure")
@@ -36,10 +38,12 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [nostrum](https://github.com/Kraigie/nostrum "nostrum")
 
 ### [Go](https://golang.org "Go")
+* [arikawa](https://github.com/diamondburned/arikawa "arikawa")
 * [discordgo](https://github.com/bwmarrin/discordgo "discordgo")
 * [disgord](https://github.com/andersfylling/disgord "disgord")
 
 ### [Haskell](https://www.haskell.org "Haskell")
+* [discord-haskell](https://github.com/aquarial/discord-haskell "discord-haskell")
 * [Discord.hs](https://github.com/TiltMeSenpai/Discord.hs "Discord.hs") (discontinued)
 
 ### [Haxe](https://haxe.org "Haxe")
@@ -53,14 +57,16 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 * [eris](https://github.com/abalabahaha/eris "eris")
-* [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [discord.io](https://github.com/izy521/discord.io "discord.io") (discontinued)
 * [discord.js](https://github.com/discordjs/discord.js "discord.js")
-* [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
 * [discordie](https://github.com/qeled/discordie "discordie") (discontinued)
 
 ### [Julia](https://julialang.org "Julia")
 * [Discord-jl](https://github.com/Xh4H/Discord.jl "Discord.jl")
+
+### Kotlin
+* [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
+* [kord](https://github.com/kordlib/kord "kord")
 
 ### [Lua](http://www.lua.org "Lua")
 * [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
@@ -97,3 +103,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Swift](https://developer.apple.com/swift "Swift")
 * [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord "SwiftDiscord")
 * [Sword](https://github.com/Azoy/Sword "Sword")
+
+### TypeScript
+* [detritusjs](https://github.com/detritusjs/client "detritusjs")
+* [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
