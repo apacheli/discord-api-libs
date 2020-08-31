@@ -7,9 +7,10 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 * [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
+* [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
 
 ### [C++](https://www.cplusplus.com "C++")
-* [aegis](https://github.com/zeroxs/aegis.cpp "aegis")
+* [aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")
 * [DisC++](https://github.com/DisCPP/DisCPP "DisCPP")
 * [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
 
@@ -77,6 +78,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Ruby](https://www.ruby-lang.org/en "Ruby")
 * [discordrb](https://github.com/discordrb/discordrb "discordrb")
+* [vox](https://github.com/swarley/vox "vox")
 
 ### [Rust](https://www.rust-lang.org "Rust")
 * [discord-rs](https://github.com/SpaceManiac/discord-rs "discord-rs")
