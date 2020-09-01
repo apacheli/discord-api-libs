@@ -7,7 +7,10 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ## Libraries
 
-### [.NET](https://dotnet.microsoft.com ".NET")
+### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
+* [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
+
+### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
 * [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 * [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")
 * [Disqord](https://github.com/Quahu/Disqord "Disqord")
