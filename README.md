@@ -96,6 +96,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Rust](https://www.rust-lang.org "Rust")
 * [discord-rs](https://github.com/SpaceManiac/discord-rs "discord-rs")
 * [serenity](https://github.com/serenity-rs/serenity "serenity")
+* [twilight](https://github.com/twilight-rs/twilight "twilight")
 
 ### [Scala](https://www.scala-lang.org "Scala")
 * [AckCord](https://github.com/Katrix/AckCord "AckCord")
