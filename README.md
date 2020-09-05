@@ -77,7 +77,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Nim](https://nim-lang.org "Nim")
 * [dimscord](https://github.com/krisppurg/dimscord "dimscord")
-* [discordnim](https://github.com/Krognol/discordnim "discordnim")
+* [discordnim](https://github.com/Krognol/discordnim "discordnim") (discontinued)
 * [nimcord](https://github.com/SeanOMik/nimcord "nimcord")
 
 ### [PHP](https://www.php.net "PHP")
