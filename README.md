@@ -89,6 +89,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [disco](https://github.com/b1naryth1ef/disco "disco")
 * [discord.py](https://github.com/Rapptz/discord.py "discord.py")
 
+### [Raku](https://raku.org "Raku")
+* [API::Discord](https://github.com/shuppet/p6-api-discord "API::Discord")
+
 ### [Ruby](https://www.ruby-lang.org/en "Ruby")
 * [discordrb](https://github.com/discordrb/discordrb "discordrb")
 * [vox](https://github.com/swarley/vox "vox")
