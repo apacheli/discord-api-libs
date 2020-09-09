@@ -13,7 +13,7 @@ We try to put as little requirements as possible for a library to be added.
 However, all libraries must follow these requirements:
 * Must be open-source with a known Git URL (GitHub, GitLab, BitBucket, etc).
 * Must be written in a known language. Esolangs are not allowed.
-* Must having working code. It does not nnecessarily need to be "production"
+* Must having working code. It does not necessarily need to be "production"
 ready, but we need to know that this is a legitimate project.
 
 ## Language and Library Format
@@ -30,10 +30,10 @@ article instead. If that can't be found either, you may exclude the hyperlink.
 
 ### Library Format
 ```
-* [repo_name](repo_url "repo_name")
+* [lib_repo_name](lib_repo_url "lib_repo_name")
 ```
 There are a few exceptions for the repository name. For example:
-* if you have changed the name of your library, but still use the same repository name.
+* If you have changed the name of your library, but still use the same repository name.
 * Library is seperated into multiple parts. We will try our best to find the most appropriate name.
 
 ## Marking a Library as "discontinued"
