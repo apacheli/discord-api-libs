@@ -1,19 +1,46 @@
 # Contributing
-Thank you for taking your time to read this.
+Hi, thank you for reading this. You can find useful information here on how
+to submit a Discord API library.
 
-If you wish to submit a library, feel free to open a pull request. We don't have many restrictions, but all
-libraries must fulfill these requirements:
-* Must be open-source with a known Git URL.
-* Must have a future. The library in question doesn't have to be completed at the time of submitting, but
-must at least be maintained.
+## Table of Contents
+* [Requirements For a Library](#requirements-for-a-library)
+* [Language and library Format](#language-and-library-format)
+* [Marking a library as "discontinued"](#marking-a-library-as-discontinued)
+* [Removing a library](#removing-a-library)
+
+## Requirements For a Library
+We try to put as little requirements as possible for a library to be added.
+However, all libraries must follow these requirements:
+* Must be open-source with a known Git URL (GitHub, GitLab, BitBucket, etc).
 * Must be written in a known language. Esolangs are not allowed.
-* If you do not own the library, make sure to contact the owner first before submitting.
+* Must having working code. It does not nnecessarily need to be "production"
+ready, but we need to know that this is a legitimate project.
 
-When adding a library, it must be sorted alphabetically by language and name. It must be formatted
-like so:
-```md
+## Language and Library Format
+When formatting a language or a library, **please make sure that they are
+sorted alphabetically.** This makes it easier for people to find what they're
+looking for.
+
+### Language Format
+```
+### [language](language_official_website "language")
+```
+If you can't find the language's official website, try linking a Wikipedia
+article instead. If that can't be found either, you may exclude the hyperlink.
+
+### Library Format
+```
 * [repo_name](repo_url "repo_name")
 ```
+There are a few exceptions for the repository name. For example:
+* if you have changed the name of your library, but still use the same repository name.
+* Library is seperated into multiple parts. We will try our best to find the most appropriate name.
 
-Some discontinued libraries are listed for historical purposes. No more discontinued libraries will
-be added, and any unactively maintained libraries may be removed in the future.
+## Marking a Library as "discontinued"
+Some libraries are marked as "discontinued" for historical purposes. We may
+be informed that a library is discontinued, and we will mark it as so.
+
+## Removing a library
+If you wish to remove a library, please make sure to contact the person who
+submitted that library, or the author of the library for approval. We will remove the library
+from out list if so. IF the library was deleted, we can safely remove it.
