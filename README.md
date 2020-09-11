@@ -19,7 +19,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [C++](https://www.cplusplus.com "C++")
 * [aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")
-* [discordpp](https://github.com/DiscordPP/discordpp "discordpp")
+* [Discord++](https://github.com/DiscordPP/discordpp "discordpp")
 * [DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")
 * [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
 
