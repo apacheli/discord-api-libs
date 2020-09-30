@@ -37,6 +37,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [nyxx](https://github.com/l7ssha/nyxx "nyxx")
 
 ### [Elixir](https://elixir-lang.org "Elixir")
+* [Alchemy](https://github.com/cronokirby/alchemy "Alchemy")
 * [coxir](https://github.com/satom99/coxir "coxir")
 * [nostrum](https://github.com/Kraigie/nostrum "nostrum")
 
