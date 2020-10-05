@@ -12,7 +12,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
 * [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
-* [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")
+* [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity") (discontinued)
 * [Disqord](https://github.com/Quahu/Disqord "Disqord")
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 * [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
@@ -26,6 +26,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Clojure](https://clojure.org "Clojure")
 * [discljord](https://github.com/IGJoshua/discljord "discljord")
 
+### [Common Lisp](https://common-lisp.net "Common Lisp")
+* [lispcord](https://github.com/lispcord/lispcord "lispcord")
+
 ### [Crystal](https://crystal-lang.org "Crystal")
 * [discordcr](https://github.com/discordcr/discordcr "discordcr")
 
@@ -38,6 +41,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Elixir](https://elixir-lang.org "Elixir")
 * [Alchemy](https://github.com/cronokirby/alchemy "Alchemy")
+* [concoction](https://github.com/jb3/concoction "concoction")
 * [coxir](https://github.com/satom99/coxir "coxir")
 * [nostrum](https://github.com/Kraigie/nostrum "nostrum")
 
@@ -47,6 +51,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [disgord](https://github.com/andersfylling/disgord "disgord")
 
 ### [Haskell](https://www.haskell.org "Haskell")
+* [calamity](https://github.com/nitros12/calamity "calamity")
 * [discord-haskell](https://github.com/aquarial/discord-haskell "discord-haskell")
 * [Discord.hs](https://github.com/TiltMeSenpai/Discord.hs "Discord.hs") (discontinued)
 
@@ -71,6 +76,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Kotlin](https://kotlinlang.org "Kotlin")
 * [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 * [kord](https://github.com/kordlib/kord "kord")
+* [strife](https://github.com/serebit/strife "strife")
 
 ### [Lua](http://www.lua.org "Lua")
 * [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
@@ -87,7 +93,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [Yasmin](https://github.com/valzargaming/Yasmin "Yasmin")
 
 ### [Python](https://www.python.org "Python")
-* [disco](https://github.com/b1naryth1ef/disco "disco")
+* [disco](https://github.com/b1naryth1ef/disco "disco") (discontinued)
 * [discord.py](https://github.com/Rapptz/discord.py "discord.py")
 
 ### [Raku](https://raku.org "Raku")

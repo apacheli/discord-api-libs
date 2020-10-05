@@ -26,15 +26,12 @@ looking for.
 ### [language](language_official_website "language")
 ```
 If you can't find the language's official website, try linking a Wikipedia
-article instead. If that can't be found either, you may exclude the hyperlink.
+article. If you can't find that either, you can exclude the hyperlink.
 
 ### Library Format
 ```
-* [lib_repo_name](lib_repo_url "lib_repo_name")
+* [display_name](lib_repo_url "lib_repo_name")
 ```
-There are a few exceptions for the repository name. For example:
-* If you have changed the name of your library, but still use the same repository name.
-* Library is seperated into multiple parts. We will try our best to find the most appropriate name.
 
 ## Marking a Library as "discontinued"
 Some libraries are marked as "discontinued" for historical purposes. We may
@@ -43,4 +40,4 @@ be informed that a library is discontinued, and we will mark it as so.
 ## Removing a library
 If you wish to remove a library, please make sure to contact the person who
 submitted that library, or the author of the library for approval. We will remove the library
-from out list if so. IF the library was deleted, we can safely remove it.
+from out list if so.
