@@ -69,6 +69,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [discord.io](https://github.com/izy521/discord.io "discord.io") (discontinued)
 * [discord.js](https://github.com/discordjs/discord.js "discord.js")
 * [discordie](https://github.com/qeled/discordie "discordie") (discontinued)
+* [Pylon SDK](https://pylon.bot/docs/into "Pylon SDK") (Not really an standalone api, meant to be run on [Pylon](https://pylon.bot "Pylon")
 
 ### [Julia](https://julialang.org "Julia")
 * [Discord-jl](https://github.com/Xh4H/Discord.jl "Discord.jl")
