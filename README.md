@@ -96,6 +96,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [disco](https://github.com/b1naryth1ef/disco "disco") (discontinued)
 * [discord.py](https://github.com/Rapptz/discord.py "discord.py")
 
+### [Racket](https://racket-lang.org "Racket")
+* [racket-cord](https://github.com/nitros12/racket-cord "racket-cord") (discontinued)
+
 ### [Raku](https://raku.org "Raku")
 * [API::Discord](https://github.com/shuppet/p6-api-discord "API::Discord")
 
@@ -104,6 +107,8 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [vox](https://github.com/swarley/vox "vox")
 
 ### [Rust](https://www.rust-lang.org "Rust")
+* [accord](https://github.com/passcod/accord "accord")
+* [automate](https://github.com/mbenoukaiss/automate "automate")
 * [discord-rs](https://github.com/SpaceManiac/discord-rs "discord-rs")
 * [serenity](https://github.com/serenity-rs/serenity "serenity")
 * [twilight](https://github.com/twilight-rs/twilight "twilight")
@@ -121,3 +126,4 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 * [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
+* [klasa](https://github.com/dirigeants/core "klasa")
