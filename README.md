@@ -3,6 +3,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ## Useful Links
 * [Discord Developer Documentation](https://discord.com/developers/docs "Discord Developer Documentation")
+* [Discord Dev/API Docs Git Repo](https://github.com/discord/discord-api-docs)
 * [Discord API Server](https://discord.gg/discord-api "Discord API Server")
 
 ## Libraries
