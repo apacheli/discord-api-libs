@@ -81,6 +81,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Lua](http://www.lua.org "Lua")
 * [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
+* [lacord](https://github.com/Mehgugs/lacord "lacord")
 * [litcord](https://github.com/satom99/litcord "litcord") (discontinued)
 
 ### [Nim](https://nim-lang.org "Nim")
