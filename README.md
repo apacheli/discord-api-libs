@@ -44,12 +44,14 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [Alchemy](https://github.com/cronokirby/alchemy "Alchemy")
 * [concoction](https://github.com/jb3/concoction "concoction")
 * [coxir](https://github.com/satom99/coxir "coxir")
+* [crux](https://github.com/SpaceEEC/crux "crux")
 * [nostrum](https://github.com/Kraigie/nostrum "nostrum")
 
 ### [Go](https://golang.org "Go")
 * [arikawa](https://github.com/diamondburned/arikawa "arikawa")
 * [discordgo](https://github.com/bwmarrin/discordgo "discordgo")
 * [disgord](https://github.com/andersfylling/disgord "disgord")
+* [goscord](https://github.com/Goscord/goscord "goscord")
 
 ### [Haskell](https://www.haskell.org "Haskell")
 * [calamity](https://github.com/nitros12/calamity "calamity")
@@ -67,6 +69,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 * [eris](https://github.com/abalabahaha/eris "eris")
+* [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")
 * [discord.io](https://github.com/izy521/discord.io "discord.io") (discontinued)
 * [discord.js](https://github.com/discordjs/discord.js "discord.js")
 * [discordie](https://github.com/qeled/discordie "discordie") (discontinued)
@@ -90,12 +93,14 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [nimcord](https://github.com/SeanOMik/nimcord "nimcord")
 
 ### [PHP](https://www.php.net "PHP")
+* [discord-interactions-php](https://github.com/discord/discord-interactions-php "discord-interactions-php")
 * [DiscordPHP](https://github.com/teamreflex/DiscordPHP "DiscordPHP")
 * [restcord](https://github.com/restcord/restcord "restcord")
 * [Yasmin](https://github.com/valzargaming/Yasmin "Yasmin")
 
 ### [Python](https://www.python.org "Python")
 * [disco](https://github.com/b1naryth1ef/disco "disco") (discontinued)
+* [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")
 * [discord.py](https://github.com/Rapptz/discord.py "discord.py")
 
 ### [Racket](https://racket-lang.org "Racket")
@@ -128,4 +133,5 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 * [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
+* [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")
 * [klasa](https://github.com/dirigeants/core "klasa")
