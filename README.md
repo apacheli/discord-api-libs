@@ -134,4 +134,5 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [detritusjs](https://github.com/detritusjs/client "detritusjs")
 * [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
 * [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")
+* [Harmony](https://github.com/harmonyland/harmony "Harmony")
 * [klasa](https://github.com/dirigeants/core "klasa")
