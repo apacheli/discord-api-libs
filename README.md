@@ -80,7 +80,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Kotlin](https://kotlinlang.org "Kotlin")
 * [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 * [kord](https://github.com/kordlib/kord "kord")
-* [strife](https://github.com/serebit/strife "strife")
 
 ### [Lua](http://www.lua.org "Lua")
 * [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
