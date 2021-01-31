@@ -78,6 +78,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [Discord-jl](https://github.com/Xh4H/Discord.jl "Discord.jl")
 
 ### [Kotlin](https://kotlinlang.org "Kotlin")
+* [Discord.kt](https://github.com/Jofairden/Discord.Kt "Discord.kt")
 * [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 * [kord](https://github.com/kordlib/kord "kord")
 
