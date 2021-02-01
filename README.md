@@ -110,7 +110,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [API::Discord](https://github.com/shuppet/p6-api-discord "API::Discord")
 
 ### [Ruby](https://www.ruby-lang.org/en "Ruby")
-* [discordrb](https://github.com/discordrb/discordrb "discordrb")
+* [discordrb](https://github.com/shardlab/discordrb "discordrb")
 * [vox](https://github.com/swarley/vox "vox")
 
 ### [Rust](https://www.rust-lang.org "Rust")
