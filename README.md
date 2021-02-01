@@ -3,7 +3,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ## Useful Links
 * [Discord Developer Documentation](https://discord.com/developers/docs "Discord Developer Documentation")
-* [Discord Dev/API Docs Git Repo](https://github.com/discord/discord-api-docs)
+* [Discord Dev/API Docs Git Repo](https://github.com/discord/discord-api-docs "Discord Dev/API Docs Git Repo")
 * [Discord API Server](https://discord.gg/discord-api "Discord API Server")
 
 ## Libraries
@@ -132,7 +132,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 * [detritusjs](https://github.com/detritusjs/client "detritusjs")
-* [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
 * [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")
+* [Discordeno](https://github.com/Skillz4Killz/Discordeno "Discordeno")
 * [Harmony](https://github.com/harmonyland/harmony "Harmony")
 * [klasa](https://github.com/dirigeants/core "klasa")
