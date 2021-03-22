@@ -14,6 +14,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
 * [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 * [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity") (discontinued)
+* [Discore](https://github.com/Francessco121/Discore, "Discore")
 * [Disqord](https://github.com/Quahu/Disqord "Disqord")
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 * [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
@@ -103,6 +104,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [disco](https://github.com/b1naryth1ef/disco "disco") (discontinued)
 * [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")
 * [discord.py](https://github.com/Rapptz/discord.py "discord.py")
+* [hata](https://github.com/HuyaneMatsu/hata "hata")
 
 ### [Racket](https://racket-lang.org "Racket")
 * [racket-cord](https://github.com/nitros12/racket-cord "racket-cord") (discontinued)
@@ -119,6 +121,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [automate](https://github.com/mbenoukaiss/automate "automate")
 * [discord-rs](https://github.com/SpaceManiac/discord-rs "discord-rs")
 * [serenity](https://github.com/serenity-rs/serenity "serenity")
+* [songbird](https://github.com/serenity-rs/songbird "songbird")
 * [twilight](https://github.com/twilight-rs/twilight "twilight")
 
 ### [Scala](https://www.scala-lang.org "Scala")
