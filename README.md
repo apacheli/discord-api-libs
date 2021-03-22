@@ -107,7 +107,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 * [hata](https://github.com/HuyaneMatsu/hata "hata")
 
 ### [Racket](https://racket-lang.org "Racket")
-* [racket-cord](https://github.com/nitros12/racket-cord "racket-cord") (discontinued)
+* [racket-cord](https://github.com/nitros12/racket-cord "racket-cord")
 
 ### [Raku](https://raku.org "Raku")
 * [API::Discord](https://github.com/shuppet/p6-api-discord "API::Discord")
