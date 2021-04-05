@@ -119,7 +119,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - [discord-interactions-php](https://github.com/discord/discord-interactions-php "discord-interactions-php")<sup>[3]</sup>
 - [DiscordPHP](https://github.com/teamreflex/DiscordPHP "DiscordPHP")
-- [DiscordPHP-Slash](ttps://github.com/discord-php/DiscordPHP-Slash "DiscordPHP-Slash")<sup>[3]</sup>
+- [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash "DiscordPHP-Slash")<sup>[3]</sup>
 - [restcord](https://github.com/restcord/restcord "restcord")<sup>[1]</sup>
 - [Yasmin](https://github.com/valzargaming/Yasmin "Yasmin")
 
