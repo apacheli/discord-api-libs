@@ -15,9 +15,10 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
 
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
+
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 - ~~[DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")~~
-- [Discore](https://github.com/Francessco121/Discore, "Discore")
+- [Discore](https://github.com/Francessco121/Discore "Discore")
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 - [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
@@ -136,6 +137,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [API::Discord](https://github.com/shuppet/p6-api-discord "API::Discord")
 
 ### [Ruby](https://www.ruby-lang.org/en "Ruby")
+
 - [discordrb](https://github.com/shardlab/discordrb "discordrb")
 - [vox](https://github.com/swarley/vox "vox")
 
