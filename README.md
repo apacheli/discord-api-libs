@@ -26,6 +26,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [C++](https://www.cplusplus.com "C++")
 
 - [aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")
+- [DPP](https://github.com/brainboxdotcc/DPP "DPP")
 - [Discord++](https://github.com/DiscordPP/discordpp "discordpp")
 - [DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")
 - [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
@@ -105,7 +106,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Lua](http://www.lua.org "Lua")
 
 - [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
-- [discordia-slash](https://github.com/GitSparTV/discordia-slash "discordia-slash")<sup>[3]</sup><sup>[4]</sup>
+- [discordia-slash](https://github.com/GitSparTV/discordia-slash "discordia-slash")<sup>[3][4]</sup>
 - [lacord](https://github.com/Mehgugs/lacord "lacord")
 - ~~[litcord](https://github.com/satom99/litcord "litcord")~~
 
@@ -127,10 +128,11 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - ~~[disco](https://github.com/b1naryth1ef/disco "disco")~~
 - [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")<sup>[3]</sup>
-- [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")<sup>[3]</sup><sup>[4]</sup>
+- [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")<sup>[3][4]</sup>
 - [discord.py](https://github.com/Rapptz/discord.py "discord.py")
 - [dispike](https://github.com/ms7m/dispike "dispike")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
+- [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
 
 ### [Racket](https://racket-lang.org "Racket")
 
@@ -178,7 +180,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ## References
 
-- <sup>[1]</sup> - This library is for the HTTP API only
-- <sup>[2]</sup> - This library is for the voice API only
-- <sup>[3]</sup> - This library is for interactions only
-- <sup>[4]</sup> - This library wraps over another library
+- <sup>[1]</sup> This library is only for the HTTP API
+- <sup>[2]</sup> This library is only for the voice API
+- <sup>[3]</sup> This library is only for interactions and slash commands only
+- <sup>[4]</sup> This library wraps over another library
