@@ -20,7 +20,7 @@ that relates to it.
 
 - Must be open-source with a known Git URL (GitHub, GitLab, BitBucket, etc).
 - Must be written in a known language. Esolangs are not allowed.
-- Must having working code. It does not necessarily need to be "production" ready, but we need to know that this is a legitimate project.
+- Must have a working prototype. It does not need to be "production" ready, but we need to know if this project is legitimate or not.
 
 ## Formatting
 
