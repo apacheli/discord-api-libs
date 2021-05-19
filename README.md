@@ -13,10 +13,12 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
 
 - [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
+- [orca](https://github.com/cee-studio/orca "orca")
 
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
 
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
+- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
 - ~~[DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")~~
 - [Discore](https://github.com/Francessco121/Discore "Discore")
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
@@ -34,6 +36,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Clojure](https://clojure.org "Clojure")
 
 - [discljord](https://github.com/IGJoshua/discljord "discljord")
+- [discord.clj](https://github.com/gizmo385/discord.clj "discord.clj")
 
 ### [Common Lisp](https://common-lisp.net "Common Lisp")
 
@@ -182,5 +185,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - <sup>[1]</sup> This library is only for the HTTP API
 - <sup>[2]</sup> This library is only for the voice API
-- <sup>[3]</sup> This library is only for interactions and slash commands only
+- <sup>[3]</sup> This library is only for interactions and slash commands
 - <sup>[4]</sup> This library wraps over another library
+- <sup>[5]</sup> This library is only for RPC
