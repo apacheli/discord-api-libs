@@ -180,6 +180,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
 - [klasa](https://github.com/dirigeants/core "klasa")
 - [slash-create](https://github.com/Snazzah/slash-create "slash-create")<sup>[3]</sup>
+- [Space](https://github.com/Apacheli/Space "Space")
 
 ## References
 
