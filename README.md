@@ -35,8 +35,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Clojure](https://clojure.org "Clojure")
 
-- [discljord](https://github.com/IGJoshua/discljord "discljord")
+- [discljord](https://github.com/IGJoshua/discljord "discljord")<sup>[3]</sup>
 - [discord.clj](https://github.com/gizmo385/discord.clj "discord.clj")
+- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth "ring-discord-auth")
 
 ### [Common Lisp](https://common-lisp.net "Common Lisp")
 
@@ -66,6 +67,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Go](https://golang.org "Go")
 
 - [arikawa](https://github.com/diamondburned/arikawa "arikawa")
+- [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go "discord-interactions-go")
 - [discordgo](https://github.com/bwmarrin/discordgo "discordgo")
 - [disgord](https://github.com/andersfylling/disgord "disgord")
 - [goscord](https://github.com/Goscord/goscord "goscord")
@@ -186,6 +188,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - <sup>[1]</sup> This library is only for the HTTP API
 - <sup>[2]</sup> This library is only for the voice API
-- <sup>[3]</sup> This library is only for interactions and slash commands
+- <sup>[3]</sup> This library is only for interactions
 - <sup>[4]</sup> This library wraps over another library
 - <sup>[5]</sup> This library is only for RPC
