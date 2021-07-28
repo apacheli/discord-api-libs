@@ -172,7 +172,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Swift](https://developer.apple.com/swift "Swift")
 
 - [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord "SwiftDiscord")
-- [Sword](https://github.com/Azoy/Sword "Sword")
+- ~~[Sword](https://github.com/Azoy/Sword "Sword")~~
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
