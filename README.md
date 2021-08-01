@@ -14,6 +14,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [.NET](https://dotnet.microsoft.com "C#")
 
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
+- [Discord.Net Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs "Discord.Net-Labs")<sup>[6]</sup>
 - [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
 - ~~[DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")~~
 - [Discore](https://github.com/Francessco121/Discore "Discore")
@@ -182,6 +183,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
 - [detritusjs](https://github.com/detritusjs/client "detritusjs")
+- [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")<sup>[3][6]</sup>
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")<sup>[3]</sup>
 - [Discordeno](https://github.com/discordeno/discordeno "Discordeno")
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
@@ -196,3 +198,4 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - <sup>[3]</sup> This library is only for interactions
 - <sup>[4]</sup> This library wraps over another library
 - <sup>[5]</sup> This library is only for RPC
+- <sup>[6]</sup> This library is a fork of another library
