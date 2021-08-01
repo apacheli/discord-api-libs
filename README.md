@@ -4,18 +4,14 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ## Useful Links
 
-* [Discord Developer Documentation](https://discord.com/developers/docs "Discord Developer Documentation")
-* [Discord Dev/API Docs Git Repo](https://github.com/discord/discord-api-docs "Discord Dev/API Docs Git Repo")
-* [Discord API Server](https://discord.gg/discord-api "Discord API Server")
+- [Discord API Server](https://discord.gg/discord-api "Discord API Server")
+- [Discord Dev/API Docs Git Repo](https://github.com/discord/discord-api-docs "Discord Dev/API Docs Git Repo")
+- [Discord Developer Documentation](https://discord.com/developers/docs "Discord Developer Documentation")
+- [Discord Developers Server](https://discord.gg/discord-developers "Discord Developers Server")
 
 ## Libraries
 
-### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
-
-- [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
-- [orca](https://github.com/cee-studio/orca "orca")
-
-### [C#](https://docs.microsoft.com/en-us/dotnet/csharp "C#")
+### [.NET](https://dotnet.microsoft.com "C#")
 
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 - [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
@@ -24,6 +20,11 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 - [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
+
+### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
+
+- [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
+- [orca](https://github.com/cee-studio/orca "orca")
 
 ### [C++](https://www.cplusplus.com "C++")
 
@@ -35,9 +36,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Clojure](https://clojure.org "Clojure")
 
-- [discljord](https://github.com/IGJoshua/discljord "discljord")<sup>[3]</sup>
+- [discljord](https://github.com/IGJoshua/discljord "discljord")
 - [discord.clj](https://github.com/gizmo385/discord.clj "discord.clj")
-- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth "ring-discord-auth")
+- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth "ring-discord-auth")<sup>[3]</sup>
 
 ### [Common Lisp](https://common-lisp.net "Common Lisp")
 
@@ -67,7 +68,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Go](https://golang.org "Go")
 
 - [arikawa](https://github.com/diamondburned/arikawa "arikawa")
-- [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go "discord-interactions-go")
+- [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go "discord-interactions-go")<sup>[3]</sup>
 - [discordgo](https://github.com/bwmarrin/discordgo "discordgo")
 - [disgord](https://github.com/andersfylling/disgord "disgord")
 - [goscord](https://github.com/Goscord/goscord "goscord")
@@ -92,10 +93,12 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [JavaScript](https://www.javascript.com "JavaScript")
 
 - [eris](https://github.com/abalabahaha/eris "eris")
+- [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")<sup>[3][4]</sup>
 - [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")<sup>[3]</sup>
 - ~~[discord.io](https://github.com/izy521/discord.io "discord.io")~~
 - [discord.js](https://github.com/discordjs/discord.js "discord.js")
 - ~~[discordie](https://github.com/qeled/discordie "discordie")~~
+- [js-cord](https://github.com/jay3332/js-cord "js-cord")
 
 ### [Julia](https://julialang.org "Julia")
 
@@ -135,7 +138,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")<sup>[3]</sup>
 - [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")<sup>[3][4]</sup>
 - [discord.py](https://github.com/Rapptz/discord.py "discord.py")
+- [dislash.py](https://github.com/EQUENOS/dislash.py "dislash.py")<sup>[3][4]</sup>
 - [dispike](https://github.com/ms7m/dispike "dispike")<sup>[3]</sup>
+- [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
 
@@ -181,8 +186,8 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Discordeno](https://github.com/discordeno/discordeno "Discordeno")
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
 - [klasa](https://github.com/dirigeants/core "klasa")
+- [skycord](https://github.com/skycord/skycord "skycord")
 - [slash-create](https://github.com/Snazzah/slash-create "slash-create")<sup>[3]</sup>
-- [Space](https://github.com/Apacheli/Space "Space")
 
 ## References
 
