@@ -21,6 +21,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 - [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
+- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")
 
 ### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
 
