@@ -13,6 +13,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [.NET](https://dotnet.microsoft.com "C#")
 
+- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 - [Discord.Net Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs "Discord.Net-Labs")<sup>[6]</sup>
 - [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
@@ -21,7 +22,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus "DSharpPlus")
 - [Remora.Discord](https://github.com/Nihlus/Remora.Discord "Remora.Discord")
-- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")
 
 ### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
 
