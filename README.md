@@ -145,6 +145,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
+- [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py")<sup>[6]</sup>
 
 ### [Racket](https://racket-lang.org "Racket")
 
