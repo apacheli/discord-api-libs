@@ -143,6 +143,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [diskord](https://github.com/diskord-dev/diskord "diskord")<sup>[6]</sup>
 - [dislash.py](https://github.com/EQUENOS/dislash.py "dislash.py")<sup>[3][4]</sup>
 - [dispike](https://github.com/ms7m/dispike "dispike")<sup>[3]</sup>
+- [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py")<sup>[6]</sup>
 - [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
