@@ -148,6 +148,8 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
+- [nextcord](https://github.com/nextcord/nextcord "nextcord")<sup>[6]</sup>
+- [pycord](https://github.com/Pycord-Development/pycord "pycord")<sup>[6]</sup>
 
 ### [Racket](https://racket-lang.org "Racket")
 
@@ -186,6 +188,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
+- [@discordjs/voice](https://github.com/discordjs/voice "@discordjs/voice")<sup>[2]</sup>
 - [detritusjs](https://github.com/detritusjs/client "detritusjs")
 - [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")<sup>[3][6]</sup>
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")<sup>[3]</sup>
