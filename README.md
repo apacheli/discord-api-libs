@@ -94,6 +94,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 
+- [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")<sup>[2]</sup>
 - [eris](https://github.com/abalabahaha/eris "eris")
 - [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")<sup>[3][4]</sup>
 - [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")<sup>[3]</sup>
@@ -188,7 +189,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
-- [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")<sup>[2]</sup>
 - [detritusjs](https://github.com/detritusjs/client "detritusjs")
 - [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")<sup>[3][6]</sup>
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")<sup>[3]</sup>
