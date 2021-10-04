@@ -94,6 +94,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 
+- [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")<sup>[2]</sup>
 - [eris](https://github.com/abalabahaha/eris "eris")
 - [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")<sup>[3][4]</sup>
 - [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")<sup>[3]</sup>
@@ -148,6 +149,8 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
+- [nextcord](https://github.com/nextcord/nextcord "nextcord")<sup>[6]</sup>
+- [pycord](https://github.com/Pycord-Development/pycord "pycord")<sup>[6]</sup>
 
 ### [Racket](https://racket-lang.org "Racket")
 
