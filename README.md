@@ -25,7 +25,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [C](https://en.wikipedia.org/wiki/C_(programming_language) "C")
 
-- [libdiscord](https://github.com/dxing97/libdiscord "libdiscord")
+- ~~[libdiscord](https://github.com/dxing97/libdiscord "libdiscord")~~
 - [orca](https://github.com/cee-studio/orca "orca")
 
 ### [C++](https://www.cplusplus.com "C++")
