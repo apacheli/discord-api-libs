@@ -30,10 +30,10 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [C++](https://www.cplusplus.com "C++")
 
-- [aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")
+- ~~[aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")~~
 - [DPP](https://github.com/brainboxdotcc/DPP "DPP")
 - [Discord++](https://github.com/DiscordPP/discordpp "discordpp")
-- [DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")
+- ~~[DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")~~
 - [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
 
 ### [Clojure](https://clojure.org "Clojure")
