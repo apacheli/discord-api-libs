@@ -196,7 +196,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Discordeno](https://github.com/discordeno/discordeno "Discordeno")
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
 - ~~[klasa](https://github.com/dirigeants/core "klasa")~~
-- [Sapphire](https://github.com/sapphiredev/framework "Sapphire")
+- [Sapphire](https://github.com/sapphiredev/framework "Sapphire")<sup>[4]</sup>
 - [skycord](https://github.com/skycord/skycord "skycord")
 - [slash-create](https://github.com/Snazzah/slash-create "slash-create")<sup>[3]</sup>
 
