@@ -113,6 +113,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Discord.kt](https://github.com/Jofairden/Discord.Kt "Discord.kt")
 - [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 - [kord](https://github.com/kordlib/kord "kord")
+- [jda-ktx](https://github.com/minndevelopment/jda-ktx "jda-ktx")<sup>[4]</sup>
 
 ### [Lua](http://www.lua.org "Lua")
 
