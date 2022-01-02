@@ -6,7 +6,7 @@ const lines = readme.split('\n');
 let output = [];
 
 for (let i = 0; i < lines.length; i++) {
-    if (lines[i].match(/^###\s*\[[^\]]+\]\([^)]+\)$/)) {
+    if (lines[i].match(/^###\s*\[.+?\]\(.+?\)$/)) {
         output.push(lines[i]);
         output.push('');
         let list = [];
