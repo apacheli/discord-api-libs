@@ -89,6 +89,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - [catnip](https://github.com/mewna/catnip "catnip")
 - [Discord4J](https://github.com/Discord4J/Discord4J "Discord4J")
+- [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks "discord-webhooks")<sup>[7]</sup>
 - [Javacord](https://github.com/Javacord/Javacord "Javacord")
 - [JDA](https://github.com/DV8FromTheWorld/JDA "JDA")
 
@@ -210,3 +211,4 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - <sup>[4]</sup> This library wraps over another library
 - <sup>[5]</sup> This library is only for RPC
 - <sup>[6]</sup> This library is a fork of another library
+- <sup>[7]</sup> This library is only for webhooks
