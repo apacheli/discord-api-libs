@@ -14,9 +14,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [.NET](https://dotnet.microsoft.com "C#")
 
 - [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")<sup>[6]</sup>
+- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
 - [Discord.Net Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs "Discord.Net-Labs")<sup>[6]</sup>
-- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")<sup>[5]</sup>
 - ~~[DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")~~
 - [Discore](https://github.com/Francessco121/Discore "Discore")
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
@@ -31,9 +31,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [C++](https://www.cplusplus.com "C++")
 
 - ~~[aegis.cpp](https://github.com/zeroxs/aegis.cpp "aegis.cpp")~~
-- [DPP](https://github.com/brainboxdotcc/DPP "DPP")
 - [Discord++](https://github.com/DiscordPP/discordpp "discordpp")
 - ~~[DisCPP](https://github.com/DisCPP/DisCPP "DisCPP")~~
+- [DPP](https://github.com/brainboxdotcc/DPP "DPP")
 - [sleepy-discord](https://github.com/yourWaifu/sleepy-discord "sleepy-discord")
 
 ### [Clojure](https://clojure.org "Clojure")
@@ -88,20 +88,20 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Java](https://www.java.com "Java")
 
 - [catnip](https://github.com/mewna/catnip "catnip")
-- [Discord4J](https://github.com/Discord4J/Discord4J "Discord4J")
 - [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks "discord-webhooks")<sup>[7]</sup>
+- [Discord4J](https://github.com/Discord4J/Discord4J "Discord4J")
 - [Javacord](https://github.com/Javacord/Javacord "Javacord")
 - [JDA](https://github.com/DV8FromTheWorld/JDA "JDA")
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 
 - [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")<sup>[2]</sup>
-- [eris](https://github.com/abalabahaha/eris "eris")
 - [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")<sup>[3][4]</sup>
 - [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")<sup>[3]</sup>
 - ~~[discord.io](https://github.com/izy521/discord.io "discord.io")~~
 - [discord.js](https://github.com/discordjs/discord.js "discord.js")
 - ~~[discordie](https://github.com/qeled/discordie "discordie")~~
+- [eris](https://github.com/abalabahaha/eris "eris")
 - [js-cord](https://github.com/jay3332/js-cord "js-cord")
 
 ### [Julia](https://julialang.org "Julia")
@@ -110,9 +110,9 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Kotlin](https://kotlinlang.org "Kotlin")
 
-- ~~[enclave](https://github.com/tripl3dogdare/enclave "enclave")~~
 - [Discord.kt](https://github.com/Jofairden/Discord.Kt "Discord.kt")
 - [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
+- ~~[enclave](https://github.com/tripl3dogdare/enclave "enclave")~~
 - [jda-ktx](https://github.com/minndevelopment/jda-ktx "jda-ktx")<sup>[4]</sup>
 - [kord](https://github.com/kordlib/kord "kord")
 
@@ -193,8 +193,8 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
-- [detritusjs](https://github.com/detritusjs/client "detritusjs")
 - [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")<sup>[3][6]</sup>
+- [detritusjs](https://github.com/detritusjs/client "detritusjs")
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")<sup>[3]</sup>
 - [Discordeno](https://github.com/discordeno/discordeno "Discordeno")
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
