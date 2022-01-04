@@ -140,6 +140,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Python](https://www.python.org "Python")
 
+- [Dis-Snek](https://github.com/Discord-Snake-Pit/Dis-Snek "Dis-Snek")
 - ~~[disco](https://github.com/b1naryth1ef/disco "disco")~~
 - [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")<sup>[3]</sup>
 - [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")<sup>[3][4]</sup>
@@ -149,7 +150,6 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [dislash.py](https://github.com/EQUENOS/dislash.py "dislash.py")<sup>[3][4]</sup>
 - [disnake](https://github.com/DisnakeDev/disnake "disnake")<sup>[6]</sup>
 - [dispike](https://github.com/ms7m/dispike "dispike")<sup>[3]</sup>
-- [Dis-Snek](https://github.com/Discord-Snake-Pit/Dis-Snek "Dis-Snek")
 - [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py")<sup>[6]</sup>
 - [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")<sup>[3]</sup>
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
