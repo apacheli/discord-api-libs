@@ -13,10 +13,10 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [.NET](https://dotnet.microsoft.com ".NET")
 
-- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")[^1][^2]
-- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")[^5]
+- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp "DisCatSharp")[^rest][^voice]
+- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp "discord-rpc-chsarp")[^rpc]
 - [Discord.Net](https://github.com/RogueException/Discord.Net "Discord.Net")
-- [Discord.Net Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs "Discord.Net-Labs")[^6]
+- [Discord.Net Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs "Discord.Net-Labs")[^fork]
 - ~~[DiscordUnity](https://github.com/DiscordUnity/DiscordUnity "DiscordUnity")~~
 - [Discore](https://github.com/Francessco121/Discore "Discore")
 - [Disqord](https://github.com/Quahu/Disqord "Disqord")
@@ -40,7 +40,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 - [discljord](https://github.com/IGJoshua/discljord "discljord")
 - [discord.clj](https://github.com/gizmo385/discord.clj "discord.clj")
-- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth "ring-discord-auth")[^3]
+- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth "ring-discord-auth")[^interactions]
 
 ### [Common Lisp](https://common-lisp.net "Common Lisp")
 
@@ -61,7 +61,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Elixir](https://elixir-lang.org "Elixir")
 
-- [Alchemy](https://github.com/cronokirby/alchemy "Alchemy")[^1]
+- [Alchemy](https://github.com/cronokirby/alchemy "Alchemy")[^rest]
 - [concoction](https://github.com/jb3/concoction "concoction")
 - [coxir](https://github.com/satom99/coxir "coxir")
 - [crux](https://github.com/SpaceEEC/crux "crux")
@@ -70,7 +70,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Go](https://golang.org "Go")
 
 - [arikawa](https://github.com/diamondburned/arikawa "arikawa")
-- [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go "discord-interactions-go")[^3]
+- [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go "discord-interactions-go")[^interactions]
 - [discordgo](https://github.com/bwmarrin/discordgo "discordgo")
 - [disgord](https://github.com/andersfylling/disgord "disgord")
 - [goscord](https://github.com/Goscord/goscord "goscord")
@@ -88,16 +88,16 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 ### [Java](https://www.java.com "Java")
 
 - [catnip](https://github.com/mewna/catnip "catnip")
-- [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks "discord-webhooks")[^7]
+- [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks "discord-webhooks")[^webhook]
 - [Discord4J](https://github.com/Discord4J/Discord4J "Discord4J")
 - [Javacord](https://github.com/Javacord/Javacord "Javacord")
 - [JDA](https://github.com/DV8FromTheWorld/JDA "JDA")
 
 ### [JavaScript](https://www.javascript.com "JavaScript")
 
-- [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")[^2]
-- [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")[^3][^4]
-- [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")[^3]
+- [@discordjs/voice](https://github.com/discordjs/voice "discordjs/voice")[^voice]
+- [discord-buttons](https://github.com/discord-buttons/discord-buttons "discord-buttons")[^interactions][^wrapper]
+- [discord-interactions-js](https://github.com/discord/discord-interactions-js "discord-interactions-js")[^interactions]
 - ~~[discord.io](https://github.com/izy521/discord.io "discord.io")~~
 - [discord.js](https://github.com/discordjs/discord.js "discord.js")
 - ~~[discordie](https://github.com/qeled/discordie "discordie")~~
@@ -113,13 +113,13 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [Discord.kt](https://github.com/Jofairden/Discord.Kt "Discord.kt")
 - [Diskord](https://github.com/JesseCorbett/Diskord "Diskord")
 - ~~[enclave](https://github.com/tripl3dogdare/enclave "enclave")~~
-- [jda-ktx](https://github.com/minndevelopment/jda-ktx "jda-ktx")[^4]
+- [jda-ktx](https://github.com/minndevelopment/jda-ktx "jda-ktx")[^wrapper]
 - [kord](https://github.com/kordlib/kord "kord")
 
 ### [Lua](http://www.lua.org "Lua")
 
 - [Discordia](https://github.com/SinisterRectus/Discordia "Discordia")
-- [discordia-slash](https://github.com/GitSparTV/discordia-slash "discordia-slash")[^3][^4]
+- [discordia-slash](https://github.com/GitSparTV/discordia-slash "discordia-slash")[^interactions][^wrapper]
 - [lacord](https://github.com/Mehgugs/lacord "lacord")
 - ~~[litcord](https://github.com/satom99/litcord "litcord")~~
 
@@ -131,31 +131,31 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [PHP](https://www.php.net "PHP")
 
-- [discord-interactions-php](https://github.com/discord/discord-interactions-php "discord-interactions-php")[^3]
+- [discord-interactions-php](https://github.com/discord/discord-interactions-php "discord-interactions-php")[^interactions]
 - [DiscordPHP](https://github.com/teamreflex/DiscordPHP "DiscordPHP")
-- [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash "DiscordPHP-Slash")[^3]
-- [laravel-notification-channels-discord](https://github.com/laravel-notification-channels/discord "laravel-notification-channels-discord")[^1]
-- [restcord](https://github.com/restcord/restcord "restcord")[^1]
+- [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash "DiscordPHP-Slash")[^interactions]
+- [laravel-notification-channels-discord](https://github.com/laravel-notification-channels/discord "laravel-notification-channels-discord")[^rest]
+- [restcord](https://github.com/restcord/restcord "restcord")[^rest]
 - [Yasmin](https://github.com/valzargaming/Yasmin "Yasmin")
 
 ### [Python](https://www.python.org "Python")
 
 - [Dis-Snek](https://github.com/Discord-Snake-Pit/Dis-Snek "Dis-Snek")
 - ~~[disco](https://github.com/b1naryth1ef/disco "disco")~~
-- [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")[^3]
-- [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")[^3][^4]
+- [discord-interactions-python](https://github.com/discord/discord-interactions-python "discord-interactions-python")[^interactions]
+- [discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command "discord-py-slash-command")[^interactions][^wrapper]
 - ~~[discord.py](https://github.com/Rapptz/discord.py "discord.py")~~
 - [DiscPyth](https://github.com/DiscPyth/DiscPyth "DiscPyth")
-- [diskord](https://github.com/diskord-dev/diskord "diskord")[^6]
-- [dislash.py](https://github.com/EQUENOS/dislash.py "dislash.py")[^3][^4]
-- [disnake](https://github.com/DisnakeDev/disnake "disnake")[^6]
-- [dispike](https://github.com/ms7m/dispike "dispike")[^3]
-- [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py")[^6]
-- [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")[^3]
+- [diskord](https://github.com/diskord-dev/diskord "diskord")[^fork]
+- [dislash.py](https://github.com/EQUENOS/dislash.py "dislash.py")[^interactions][^wrapper]
+- [disnake](https://github.com/DisnakeDev/disnake "disnake")[^fork]
+- [dispike](https://github.com/ms7m/dispike "dispike")[^interactions]
+- [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py")[^fork]
+- [flask-discord-interactions](https://github.com/Breq16/flask-discord-interactions "flask-discord-interactions")[^interactions]
 - [hata](https://github.com/HuyaneMatsu/hata "hata")
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
-- [nextcord](https://github.com/nextcord/nextcord "nextcord")[^6]
-- [pycord](https://github.com/Pycord-Development/pycord "pycord")[^6]
+- [nextcord](https://github.com/nextcord/nextcord "nextcord")[^fork]
+- [pycord](https://github.com/Pycord-Development/pycord "pycord")[^fork]
 
 ### [Racket](https://racket-lang.org "Racket")
 
@@ -176,7 +176,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [automate](https://github.com/mbenoukaiss/automate "automate")
 - [discord-rs](https://github.com/SpaceManiac/discord-rs "discord-rs")
 - [serenity](https://github.com/serenity-rs/serenity "serenity")
-- [songbird](https://github.com/serenity-rs/songbird "songbird")[^2]
+- [songbird](https://github.com/serenity-rs/songbird "songbird")[^voice]
 - [twilight](https://github.com/twilight-rs/twilight "twilight")
 
 ### [Scala](https://www.scala-lang.org "Scala")
@@ -185,7 +185,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Shell](https://www.shellscript.sh "Shell")
 
-- [discord.sh](https://github.com/ChaoticWeg/discord.sh "discord.sh")[^7]
+- [discord.sh](https://github.com/ChaoticWeg/discord.sh "discord.sh")[^webhook]
 
 ### [Swift](https://developer.apple.com/swift "Swift")
 
@@ -194,20 +194,20 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [TypeScript](https://www.typescriptlang.org "TypeScript")
 
-- [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")[^3][^6]
+- [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands "Deno-Discord-Slash-Commands")[^interactions][^fork]
 - [detritusjs](https://github.com/detritusjs/client "detritusjs")
-- [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")[^3]
+- [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands "discord-slash-commands")[^interactions]
 - [Discordeno](https://github.com/discordeno/discordeno "Discordeno")
 - [Harmony](https://github.com/harmonyland/harmony "Harmony")
 - ~~[klasa](https://github.com/dirigeants/core "klasa")~~
-- [Sapphire](https://github.com/sapphiredev/framework "Sapphire")[^4]
+- [Sapphire](https://github.com/sapphiredev/framework "Sapphire")[^wrapper]
 - [skycord](https://github.com/skycord/skycord "skycord")
-- [slash-create](https://github.com/Snazzah/slash-create "slash-create")[^3]
+- [slash-create](https://github.com/Snazzah/slash-create "slash-create")[^interactions]
 
-[^1]: This library is for the HTTP/REST API.
-[^2]: This library is for the voice API.
-[^3]: This library is for the interactions API.
-[^4]: This library is a framework/wrapper for another library.
-[^5]: This library is for the RPC API.
-[^6]: This library is a fork of another library.
-[^7]: This library is only for webhooks.
+[^rest]: This library is for the HTTP/REST API.
+[^voice]: This library is for the voice API.
+[^interactions]: This library is for the interactions API.
+[^wrapper]: This library is a framework/wrapper for another library.
+[^rpc]: This library is for the RPC API.
+[^fork]: This library is a fork of another library.
+[^webhook]: This library is only for webhooks.
