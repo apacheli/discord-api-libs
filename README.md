@@ -49,7 +49,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 
 ### [Crystal](https://crystal-lang.org "Crystal")
 
-- [discordcr](https://github.com/discordcr/discordcr "discordcr")
+- ~~[discordcr](https://github.com/discordcr/discordcr "discordcr")~~
 
 ### [D](https://dlang.org "D")
 
