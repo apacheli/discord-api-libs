@@ -1,0 +1,10 @@
+{
+  "name": "Kotlin",
+  "libraries": [
+    "Discord.Kt",
+    "Diskord",
+    "jda-ktx",
+    "kord"
+  ],
+  "website": "https://kotlinlang.org/"
+}

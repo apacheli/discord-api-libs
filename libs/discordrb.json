@@ -1,0 +1,13 @@
+{
+  "name": "discordrb",
+  "description": "Discord API for Ruby ",
+  "language": "Ruby",
+  "repository_url": "https://github.com/shardlab/discordrb",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

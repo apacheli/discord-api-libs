@@ -1,0 +1,13 @@
+{
+  "name": "SwiftDiscord",
+  "description": "Discord API Client for Swift",
+  "language": "Swift",
+  "repository_url": "https://github.com/nuclearace/SwiftDiscord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

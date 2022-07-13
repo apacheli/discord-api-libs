@@ -1,0 +1,13 @@
+{
+  "name": "discordeno",
+  "description": "Discord API library for Deno",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/discordeno/discordeno",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nextcord",
+  "description": "A Python wrapper for the Discord API forked from discord.py",
+  "language": "Python",
+  "repository_url": "https://github.com/nextcord/nextcord",
+  "tags": [
+    "fork"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

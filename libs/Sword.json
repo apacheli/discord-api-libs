@@ -1,0 +1,15 @@
+{
+  "name": "Sword",
+  "description": "Discord library for Swift",
+  "language": "Swift",
+  "repository_url": "https://github.com/Azoy/Sword",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

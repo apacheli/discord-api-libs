@@ -1,0 +1,13 @@
+{
+  "name": "DiscordPHP",
+  "description": "An API to interact with the popular messaging app Discord",
+  "language": "PHP",
+  "repository_url": "https://github.com/discord-php/DiscordPHP",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

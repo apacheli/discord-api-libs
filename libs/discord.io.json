@@ -1,0 +1,15 @@
+{
+  "name": "discord.io",
+  "description": "A small, single-file library for creating DiscordApp clients from Node.js or the browser",
+  "language": "JavaScript",
+  "repository_url": "https://github.com/izy521/discord.io",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

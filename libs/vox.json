@@ -1,0 +1,13 @@
+{
+  "name": "vox",
+  "description": "Discord library in ruby",
+  "language": "Ruby",
+  "repository_url": "https://github.com/swarley/vox",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

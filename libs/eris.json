@@ -1,0 +1,13 @@
+{
+  "name": "eris",
+  "description": "A NodeJS Discord library",
+  "language": "JavaScript",
+  "repository_url": "https://github.com/abalabahaha/eris",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

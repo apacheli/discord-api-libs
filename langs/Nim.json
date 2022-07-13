@@ -1,0 +1,9 @@
+{
+  "name": "Nim",
+  "libraries": [
+    "dimscord",
+    "discordnim",
+    "nimcord"
+  ],
+  "website": "https://nim-lang.org/"
+}

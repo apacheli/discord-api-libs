@@ -1,0 +1,13 @@
+{
+  "name": "DPP",
+  "description": "C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!",
+  "language": "C++",
+  "repository_url": "https://github.com/brainboxdotcc/DPP",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

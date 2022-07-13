@@ -1,0 +1,12 @@
+{
+  "name": "Deno-Discord-Slash-Commands",
+  "description": "Deno Slash Commands for Discord ",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands",
+  "tags": [
+    "fork"
+  ],
+  "features": [
+    "interactions"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Discore",
+  "description": "A .NET Standard interface for the Discord API designed for creating bots.",
+  "language": "C#",
+  "repository_url": "https://github.com/Francessco121/Discore",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "C",
+  "libraries": [
+    "concord",
+    "libdiscord",
+    "orca"
+  ],
+  "website": "https://www.open-std.org/jtc1/sc22/wg14/"
+}

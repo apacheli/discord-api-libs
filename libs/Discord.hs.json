@@ -1,0 +1,15 @@
+{
+  "name": "Discord.hs",
+  "description": "Have you heard of our lord and savior Haskell?",
+  "language": "Haskell",
+  "repository_url": "https://github.com/TiltMeSenpai/Discord.hs",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "arikawa",
+  "description": "A Golang library and framework for the Discord API.",
+  "language": "Go",
+  "repository_url": "https://github.com/diamondburned/arikawa",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "discord.js",
+  "description": "A powerful JavaScript library for interacting with the Discord API",
+  "language": "JavaScript",
+  "repository_url": "https://github.com/discordjs/discord.js",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

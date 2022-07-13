@@ -1,0 +1,8 @@
+{
+  "name": "Swift",
+  "libraries": [
+    "SwiftDiscord",
+    "Sword"
+  ],
+  "website": "https://developer.apple.com/swift/"
+}

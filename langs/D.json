@@ -1,0 +1,7 @@
+{
+  "name": "D",
+  "libraries": [
+    "dscord"
+  ],
+  "website": "https://dlang.org/"
+}

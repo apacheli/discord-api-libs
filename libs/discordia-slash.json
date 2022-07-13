@@ -1,0 +1,12 @@
+{
+  "name": "discordia-slash",
+  "description": "Discordia application commands extension",
+  "language": "Lua",
+  "repository_url": "https://github.com/GitSparTV/discordia-slash",
+  "tags": [
+    "wrapper"
+  ],
+  "features": [
+    "interactions"
+  ]
+}

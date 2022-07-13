@@ -1,0 +1,15 @@
+{
+  "name": "discordie",
+  "description": "Predictable JavaScript abstractions for Discord API.",
+  "language": "JavaScript",
+  "repository_url": "https://github.com/qeled/discordie",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

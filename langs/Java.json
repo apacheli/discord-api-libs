@@ -1,0 +1,11 @@
+{
+  "name": "Java",
+  "libraries": [
+    "catnip",
+    "discord-webhooks",
+    "Discord4J",
+    "Javacord",
+    "JDA"
+  ],
+  "website": "https://www.java.com/en/"
+}

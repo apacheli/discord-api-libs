@@ -1,0 +1,13 @@
+{
+  "name": "Goscord",
+  "description": "A Discord API wrapper written in Golang.",
+  "language": "Go",
+  "repository_url": "https://github.com/Goscord/Goscord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

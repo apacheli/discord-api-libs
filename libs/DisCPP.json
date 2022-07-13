@@ -1,0 +1,15 @@
+{
+  "name": "DisCPP",
+  "description": "Simplified, but feature rich Discord API wrapper written in modern C++.",
+  "language": "C++",
+  "repository_url": "https://github.com/DisCPP/DisCPP",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

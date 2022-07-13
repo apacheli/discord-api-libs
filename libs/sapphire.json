@@ -1,0 +1,15 @@
+{
+  "name": "sapphire",
+  "description": "Discord bot framework built on top of discord.js for advanced and amazing bots.",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/sapphiredev/framework",
+  "tags": [
+    "wrapper"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

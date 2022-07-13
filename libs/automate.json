@@ -1,0 +1,13 @@
+{
+  "name": "automate",
+  "description": "An asynchronous library to interact with Discord API",
+  "language": "Rust",
+  "repository_url": "https://github.com/mbenoukaiss/automate",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

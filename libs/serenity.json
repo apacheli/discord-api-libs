@@ -1,0 +1,13 @@
+{
+  "name": "serenity",
+  "description": "A Rust library for the Discord API.",
+  "language": "Rust",
+  "repository_url": "https://github.com/serenity-rs/serenity",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "restcord",
+  "description": "Discord REST API Client",
+  "language": "PHP",
+  "repository_url": "https://github.com/restcord/restcord",
+  "tags": [],
+  "features": [
+    "rest"
+  ]
+}

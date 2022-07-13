@@ -1,0 +1,13 @@
+{
+  "name": "harmony",
+  "description": "An easy to use Discord API Library for Deno.",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/harmonyland/harmony",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

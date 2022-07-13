@@ -1,0 +1,10 @@
+{
+  "name": "discord-webhooks",
+  "description": "Provides easy to use bindings for the Discord Webhook API",
+  "language": "Java",
+  "repository_url": "https://github.com/MinnDevelopment/discord-webhooks",
+  "tags": [],
+  "features": [
+    "webhooks"
+  ]
+}

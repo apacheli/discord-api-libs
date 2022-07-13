@@ -1,0 +1,11 @@
+{
+  "name": "Elixir",
+  "libraries": [
+    "alchemy",
+    "concoction",
+    "coxir",
+    "crux",
+    "nostrum"
+  ],
+  "website": "https://elixir-lang.org/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Discordia",
+  "description": "Discord API library written in Lua for the Luvit runtime environment",
+  "language": "Lua",
+  "repository_url": "https://github.com/SinisterRectus/Discordia",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

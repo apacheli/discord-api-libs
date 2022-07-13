@@ -1,0 +1,11 @@
+{
+  "name": "Go",
+  "libraries": [
+    "arikawa",
+    "discord-interactions-go",
+    "discordgo",
+    "disgord",
+    "Goscord"
+  ],
+  "website": "https://go.dev/"
+}

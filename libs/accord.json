@@ -1,0 +1,13 @@
+{
+  "name": "accord",
+  "description": "Discord API client to power Discord API clients via the power of love, friendship, and HTTP 💖",
+  "language": "Rust",
+  "repository_url": "https://github.com/passcod/accord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

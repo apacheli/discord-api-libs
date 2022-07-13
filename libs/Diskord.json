@@ -1,0 +1,13 @@
+{
+  "name": "Diskord",
+  "description": "[Mirror of GitLab] A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.",
+  "language": "Kotlin",
+  "repository_url": "https://github.com/JesseCorbett/Diskord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

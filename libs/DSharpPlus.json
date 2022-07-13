@@ -1,0 +1,13 @@
+{
+  "name": "DSharpPlus",
+  "description": "A .NET Standard library for making bots using the Discord API.",
+  "language": "C#",
+  "repository_url": "https://github.com/DSharpPlus/DSharpPlus",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JavaScript",
+  "libraries": [
+    "discord-interactions-js",
+    "discord.io",
+    "discord.js",
+    "discordie",
+    "discordjs-voice",
+    "eris",
+    "js-cord"
+  ],
+  "website": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+}

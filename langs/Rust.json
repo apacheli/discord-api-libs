@@ -1,0 +1,12 @@
+{
+  "name": "Rust",
+  "libraries": [
+    "accord",
+    "automate",
+    "discord-rs",
+    "serenity",
+    "songbird",
+    "twilight"
+  ],
+  "website": "https://www.rust-lang.org/"
+}

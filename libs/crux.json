@@ -1,0 +1,13 @@
+{
+  "name": "crux",
+  "description": "Repository creating the umbrella documentation for all crux libraries",
+  "language": "Elixir",
+  "repository_url": "https://github.com/SpaceEEC/crux",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

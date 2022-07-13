@@ -1,0 +1,11 @@
+{
+  "name": "C++",
+  "libraries": [
+    "aegis.cpp",
+    "discordpp",
+    "DisCPP",
+    "DPP",
+    "sleepy-discord"
+  ],
+  "website": "https://cplusplus.com/"
+}

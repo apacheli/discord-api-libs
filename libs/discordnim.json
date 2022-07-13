@@ -1,0 +1,13 @@
+{
+  "name": "discordnim",
+  "description": "Discord library for nim",
+  "language": "Nim",
+  "repository_url": "https://github.com/Krognol/discordnim",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

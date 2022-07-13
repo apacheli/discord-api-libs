@@ -1,0 +1,7 @@
+{
+  "name": "Common Lisp",
+  "libraries": [
+    "lispcord"
+  ],
+  "website": "https://common-lisp.net/"
+}
