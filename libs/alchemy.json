@@ -5,6 +5,9 @@
   "repository_url": "https://github.com/cronokirby/alchemy",
   "tags": [],
   "features": [
-    "rest"
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
   ]
 }

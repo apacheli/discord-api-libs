@@ -91,7 +91,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 ### [Java](https://www.java.com/en/)
 
 - [catnip](https://github.com/mewna/catnip) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
-- [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks) - Provides easy to use bindings for the Discord Webhook API
+- [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks)[^webhooks] - Provides easy to use bindings for the Discord Webhook API
 - [Discord4J](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 - [Javacord](https://github.com/Javacord/Javacord) - An easy to use multithreaded library for creating Discord bots in Java.
 - [JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
@@ -135,7 +135,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [discord-interactions-php](https://github.com/discord/discord-interactions-php)[^interactions] - PHP utilities for building Discord Interaction webhooks
 - [DiscordPHP](https://github.com/discord-php/DiscordPHP) - An API to interact with the popular messaging app Discord
 - [DiscordPHP-Slash](https://github.com/discord-php/DiscordPHP-Slash)[^interactions] - PHP server and client for Discord slash commands.
-- [restcord](https://github.com/restcord/restcord) - Discord REST API Client
+- [restcord](https://github.com/restcord/restcord)[^rest] - Discord REST API Client
 - [Yasmin](https://github.com/valzargaming/Yasmin) - Dedicated to maintaining the Yasmin core used by Palace Bot #9203
 
 ### [Python](https://www.python.org/)
@@ -183,7 +183,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 
 ### [Shell](https://www.shellscript.sh/)
 
-- [discord.sh](https://github.com/ChaoticWeg/discord.sh) - Write-only command-line Discord webhook integration written in 100% Bash script
+- [discord.sh](https://github.com/ChaoticWeg/discord.sh)[^webhooks] - Write-only command-line Discord webhook integration written in 100% Bash script
 
 ### [Swift](https://developer.apple.com/swift/)
 

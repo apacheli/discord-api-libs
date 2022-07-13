@@ -66,7 +66,7 @@ for (const lang of Object.keys(langs).sort()) {
     if (y.tags.includes("fork")) {
       str += "[^fork]";
     }
-    if (y.features.every((x) => !features.includes(x))) {
+    if (features.some((x) => !y.features.includes(x))) {
       for (const tag of y.features) {
         str += `[^${tag}]`;
       }
