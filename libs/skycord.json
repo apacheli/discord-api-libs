@@ -5,8 +5,8 @@
   "repository_url": "https://github.com/skycord/skycord",
   "tags": [],
   "features": [
-    "interactions",
     "gateway",
+    "interactions",
     "rest",
     "webhooks"
   ]
