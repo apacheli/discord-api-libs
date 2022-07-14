@@ -22,7 +22,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 
 ### [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp) - A cute Discord API wrapper for .NET with the newest stuff.
+- [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp)[^fork] - A cute Discord API wrapper for .NET with the newest stuff.
 - [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp)[^rpc] - C# custom implementation for Discord Rich Presence. Not deprecated and still available! 
 - [Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs)[^fork] **(archived)** - An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net
