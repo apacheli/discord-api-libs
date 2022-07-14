@@ -1,0 +1,13 @@
+{
+  "name": "AckCord",
+  "description": "A Discord library for Scala using Akka",
+  "language": "Scala",
+  "repository_url": "https://github.com/Katrix/AckCord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

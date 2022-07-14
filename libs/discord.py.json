@@ -1,0 +1,13 @@
+{
+  "name": "discord.py",
+  "description": "An API wrapper for Discord written in Python.",
+  "language": "Python",
+  "repository_url": "https://github.com/Rapptz/discord.py",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

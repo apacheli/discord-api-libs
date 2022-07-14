@@ -1,0 +1,13 @@
+{
+  "name": "discord-haskell",
+  "description": "Haskell library for writing Discord bots",
+  "language": "Haskell",
+  "repository_url": "https://github.com/discord-haskell/discord-haskell",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

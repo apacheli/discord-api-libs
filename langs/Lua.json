@@ -1,0 +1,10 @@
+{
+  "name": "Lua",
+  "libraries": [
+    "Discordia",
+    "discordia-slash",
+    "lacord",
+    "litcord"
+  ],
+  "website": "https://www.lua.org/"
+}

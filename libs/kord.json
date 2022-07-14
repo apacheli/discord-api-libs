@@ -1,0 +1,13 @@
+{
+  "name": "kord",
+  "description": " Idiomatic Kotlin Wrapper for The Discord API",
+  "language": "Kotlin",
+  "repository_url": "https://github.com/kordlib/kord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

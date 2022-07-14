@@ -1,0 +1,13 @@
+{
+  "name": "concoction",
+  "description": "Concoction is a Discord library for Elixir.",
+  "language": "Elixir",
+  "repository_url": "https://github.com/jb3/concoction",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JDA",
+  "description": "Java wrapper for the popular chat & VOIP service: Discord https://discord.com",
+  "language": "Java",
+  "repository_url": "https://github.com/DV8FromTheWorld/JDA",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

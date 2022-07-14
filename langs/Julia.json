@@ -1,0 +1,7 @@
+{
+  "name": "Julia",
+  "libraries": [
+    "Discord.jl"
+  ],
+  "website": "https://julialang.org/"
+}

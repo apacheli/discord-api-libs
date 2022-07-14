@@ -1,0 +1,10 @@
+{
+  "name": "discord-interactions-php",
+  "description": "PHP utilities for building Discord Interaction webhooks",
+  "language": "PHP",
+  "repository_url": "https://github.com/discord/discord-interactions-php",
+  "tags": [],
+  "features": [
+    "interactions"
+  ]
+}

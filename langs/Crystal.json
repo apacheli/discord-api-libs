@@ -1,0 +1,7 @@
+{
+  "name": "Crystal",
+  "libraries": [
+    "discordcr"
+  ],
+  "website": "https://crystal-lang.org/"
+}

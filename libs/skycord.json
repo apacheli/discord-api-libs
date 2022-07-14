@@ -1,0 +1,13 @@
+{
+  "name": "skycord",
+  "description": null,
+  "language": "TypeScript",
+  "repository_url": "https://github.com/skycord/skycord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

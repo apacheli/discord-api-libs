@@ -1,0 +1,15 @@
+{
+  "name": "TypeScript",
+  "libraries": [
+    "Deno-Discord-Slash-Commands",
+    "detritus",
+    "discord-slash-commands",
+    "discordeno",
+    "harmony",
+    "klasa",
+    "sapphire",
+    "skycord",
+    "slash-create"
+  ],
+  "website": "https://www.typescriptlang.org/"
+}

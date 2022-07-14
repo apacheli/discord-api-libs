@@ -1,0 +1,10 @@
+{
+  "name": "discord-interactions-go",
+  "description": "discord interactions",
+  "language": "Go",
+  "repository_url": "https://github.com/bsdlp/discord-interactions-go",
+  "tags": [],
+  "features": [
+    "interactions"
+  ]
+}

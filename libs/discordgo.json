@@ -1,0 +1,13 @@
+{
+  "name": "discordgo",
+  "description": " (Golang) Go bindings for Discord",
+  "language": "Go",
+  "repository_url": "https://github.com/bwmarrin/discordgo",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

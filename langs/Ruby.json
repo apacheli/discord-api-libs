@@ -1,0 +1,8 @@
+{
+  "name": "Ruby",
+  "libraries": [
+    "discordrb",
+    "vox"
+  ],
+  "website": "https://www.ruby-lang.org/en/"
+}

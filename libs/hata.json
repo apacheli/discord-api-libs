@@ -1,0 +1,13 @@
+{
+  "name": "hata",
+  "description": "Async Discord API wrapper.",
+  "language": "Python",
+  "repository_url": "https://github.com/HuyaneMatsu/hata",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

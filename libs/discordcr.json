@@ -1,0 +1,15 @@
+{
+  "name": "discordcr",
+  "description": "Minimalist Discord library for Crystal. (Still WIP, but usable)",
+  "language": "Crystal",
+  "repository_url": "https://github.com/discordcr/discordcr",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

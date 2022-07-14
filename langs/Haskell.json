@@ -1,0 +1,9 @@
+{
+  "name": "Haskell",
+  "libraries": [
+    "calamity",
+    "discord-haskell",
+    "Discord.hs"
+  ],
+  "website": "https://www.haskell.org/"
+}

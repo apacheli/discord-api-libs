@@ -1,0 +1,13 @@
+{
+  "name": "discordpp",
+  "description": "A Modularized C++ Library for the Discord API",
+  "language": "C++",
+  "repository_url": "https://github.com/DiscordPP/discordpp",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dislash.py",
+  "description": "A Python wrapper for discord slash-commands and buttons, designed to extend discord.py.",
+  "language": "Python",
+  "repository_url": "https://github.com/EQUENOS/dislash.py",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "interactions"
+  ]
+}

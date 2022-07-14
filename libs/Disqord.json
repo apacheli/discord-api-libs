@@ -1,0 +1,13 @@
+{
+  "name": "Disqord",
+  "description": "An asynchronous Discord API wrapper for .NET.",
+  "language": "C#",
+  "repository_url": "https://github.com/Quahu/Disqord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

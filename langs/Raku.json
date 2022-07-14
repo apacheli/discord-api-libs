@@ -1,0 +1,7 @@
+{
+  "name": "Raku",
+  "libraries": [
+    "raku-api-discord"
+  ],
+  "website": "https://www.raku.org/"
+}

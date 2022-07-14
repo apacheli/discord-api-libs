@@ -1,0 +1,10 @@
+{
+  "name": "slash-create",
+  "description": "🗡️ Creator and handler for Discord's slash commands",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/Snazzah/slash-create",
+  "tags": [],
+  "features": [
+    "interactions"
+  ]
+}

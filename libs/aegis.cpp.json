@@ -1,0 +1,15 @@
+{
+  "name": "aegis.cpp",
+  "description": "Discord C++ library for interfacing with the API. Join our server: https://discord.gg/w7Y3Bb8",
+  "language": "C++",
+  "repository_url": "https://github.com/zeroxs/aegis.cpp",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

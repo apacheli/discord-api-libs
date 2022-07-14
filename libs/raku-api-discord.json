@@ -1,0 +1,13 @@
+{
+  "name": "raku-api-discord",
+  "description": "Raku module for interacting with the Discord API.",
+  "language": "Raku",
+  "repository_url": "https://github.com/shuppet/raku-api-discord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

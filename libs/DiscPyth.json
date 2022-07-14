@@ -1,0 +1,13 @@
+{
+  "name": "DiscPyth",
+  "description": "DiscPyth is an unofficial wrapper in Python for the official Discord API.",
+  "language": "Python",
+  "repository_url": "https://github.com/DiscPyth/DiscPyth",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

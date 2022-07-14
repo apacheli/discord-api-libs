@@ -1,0 +1,15 @@
+{
+  "name": "libdiscord",
+  "description": "A Discord library written in C",
+  "language": "C",
+  "repository_url": "https://github.com/dxing97/libdiscord",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

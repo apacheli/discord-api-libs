@@ -1,0 +1,13 @@
+{
+  "name": "coxir",
+  "description": "A modern Elixir wrapper for Discord.",
+  "language": "Elixir",
+  "repository_url": "https://github.com/satom99/coxir",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

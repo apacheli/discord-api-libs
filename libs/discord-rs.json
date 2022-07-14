@@ -1,0 +1,13 @@
+{
+  "name": "discord-rs",
+  "description": "Rust library for the Discord chat client API",
+  "language": "Rust",
+  "repository_url": "https://github.com/SpaceManiac/discord-rs",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

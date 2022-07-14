@@ -1,0 +1,13 @@
+{
+  "name": "Remora.Discord",
+  "description": "A data-oriented C# Discord library, focused on high-performance concurrency and robust design.",
+  "language": "C#",
+  "repository_url": "https://github.com/Nihlus/Remora.Discord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

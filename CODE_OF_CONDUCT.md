@@ -1,2 +1,0 @@
-- [Discord Community Guidelines](https://discord.com/guidelines)
-- [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)

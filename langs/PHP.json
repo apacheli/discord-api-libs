@@ -1,0 +1,11 @@
+{
+  "name": "PHP",
+  "libraries": [
+    "discord-interactions-php",
+    "DiscordPHP",
+    "DiscordPHP-Slash",
+    "restcord",
+    "Yasmin"
+  ],
+  "website": "https://www.php.net/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "detritus",
+  "description": "A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/detritusjs/client",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

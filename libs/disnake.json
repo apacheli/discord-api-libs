@@ -1,0 +1,15 @@
+{
+  "name": "disnake",
+  "description": "An API wrapper for Discord written in Python.",
+  "language": "Python",
+  "repository_url": "https://github.com/DisnakeDev/disnake",
+  "tags": [
+    "fork"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

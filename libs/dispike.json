@@ -1,0 +1,10 @@
+{
+  "name": "dispike",
+  "description": "An independent, simple to use, powerful framework for creating interaction-based Discord bots. Powered by FastAPI",
+  "language": "Python",
+  "repository_url": "https://github.com/ms7m/dispike",
+  "tags": [],
+  "features": [
+    "interactions"
+  ]
+}

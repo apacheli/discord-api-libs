@@ -1,0 +1,13 @@
+{
+  "name": "dimscord",
+  "description": "A Discord Bot & REST Library for Nim.",
+  "language": "Nim",
+  "repository_url": "https://github.com/krisppurg/dimscord",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

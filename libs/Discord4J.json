@@ -1,0 +1,13 @@
+{
+  "name": "Discord4J",
+  "description": "Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.",
+  "language": "Java",
+  "repository_url": "https://github.com/Discord4J/Discord4J",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ]
+}

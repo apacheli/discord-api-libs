@@ -1,0 +1,10 @@
+{
+  "name": "discord-interactions-python",
+  "description": "Useful tools for building interactions in Python",
+  "language": "Python",
+  "repository_url": "https://github.com/discord/discord-interactions-python",
+  "tags": [],
+  "features": [
+    "interactions"
+  ]
+}

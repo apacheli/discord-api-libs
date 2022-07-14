@@ -1,0 +1,12 @@
+{
+  "name": "discordjs-voice",
+  "description": "Implementation of the Discord Voice API for discord.js and other JS/TS libraries",
+  "language": "JavaScript",
+  "repository_url": "https://github.com/discordjs/voice",
+  "tags": [
+    "archived"
+  ],
+  "features": [
+    "voice"
+  ]
+}
