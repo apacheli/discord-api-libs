@@ -3,7 +3,9 @@
   "description": "A cute Discord API wrapper for .NET with the newest stuff.",
   "language": "C#",
   "repository_url": "https://github.com/Aiko-IT-Systems/DisCatSharp",
-  "tags": [],
+  "tags": [
+    "fork"
+  ],
   "features": [
     "gateway",
     "interactions",

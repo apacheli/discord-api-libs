@@ -2,7 +2,7 @@
 
 🚀 **A curated list of Discord API libraries developed by members of the community** 🚀
 
-Want to help contribute to this project? Take a look at [our contributing guide](./CONTRIBUTING.md).
+Want to help contribute to this project? Take a look at [our contributing guide](https://github.com/apacheli/discord-api-libs/blob/master/CONTRIBUTING.md).
 
 ### Resources
 
