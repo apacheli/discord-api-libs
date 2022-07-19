@@ -10,6 +10,7 @@
     "gateway",
     "interactions",
     "rest",
-    "webhooks"
+    "webhooks",
+    "voice"
   ]
 }
