@@ -1,6 +1,6 @@
 {
   "name": "pycord",
-  "description": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+  "description": "Pycord, the library for building discord bots in python.",
   "language": "Python",
   "repository_url": "https://github.com/Pycord-Development/pycord",
   "tags": [
@@ -10,6 +10,7 @@
     "gateway",
     "interactions",
     "rest",
-    "webhooks"
+    "webhooks",
+    "voice"
   ]
 }
