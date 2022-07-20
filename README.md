@@ -153,7 +153,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [interactions-py](https://github.com/interactions-py/library)[^interactions] - Easy, simple, scalable and modular: a Python API wrapper for interactions.
 - [NAFF](https://github.com/NAFTeam/NAFF) - A Python API wrapper for Discord
 - [nextcord](https://github.com/nextcord/nextcord)[^fork] - A Python wrapper for the Discord API forked from discord.py
-- [pycord](https://github.com/Pycord-Development/pycord)[^fork] - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+- [pycord](https://github.com/Pycord-Development/pycord)[^fork] - Pycord, the library for building discord bots in python.
 
 ### [Racket](https://racket-lang.org/)
 
