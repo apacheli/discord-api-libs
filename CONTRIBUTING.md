@@ -25,7 +25,7 @@ We are now using [JSON](https://www.json.org/json-en.html) when it comes to prov
   // The library's name.
   "name": "",
   // A description of the library.
-  // You can also just use the "About" section of the library's repository.
+  // You can also just use the "About" section of the library's repository if you want.
   "description": "",
   // The language the library is written in.
   "language": "",
@@ -44,13 +44,13 @@ We are now using [JSON](https://www.json.org/json-en.html) when it comes to prov
     "interactions",
     "rest",
     "rpc",
-    "webhooks",
-    "voice"
+    "voice",
+    "webhooks"
   ]
 }
 ```
 
-If you are adding a library that is written in an entirely programming language, do not forget to add a language JSON file too! Follow the same steps as adding a library, but paste the file into `./langs/`.
+If you are adding a library that is written in an entirely different programming language, do not forget to add a language JSON file too! Follow the same steps as adding a library, but paste the file into `./langs/`.
 
 ```jsonc
 {
