@@ -46,7 +46,20 @@ We are now using [JSON](https://www.json.org/json-en.html) when it comes to prov
     "rpc",
     "voice",
     "webhooks"
-  ]
+  ],
+  // (optional) Additional URL metadata.
+  "urls": {
+    // The link to the homepage of the library.
+    "homepage": "example.com/homepage",
+    // The link to the documentation of the library.
+    "documentation": "example.com/documentation",
+    // A URL to the library's Discord server. (.gg for example, or a redirect)
+    "discord": "example.com/discord-invite",
+    // Additional links. You can put your support links here and whatever.
+    "others": {
+      "patreon": "..."
+    }
+  }
 }
 ```
 
