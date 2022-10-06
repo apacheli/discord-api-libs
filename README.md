@@ -94,7 +94,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks)[^webhooks] - Provides easy to use bindings for the Discord Webhook API
 - [Discord4J](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 - [Javacord](https://github.com/Javacord/Javacord) - An easy to use multithreaded library for creating Discord bots in Java.
-- [JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
+- [JDA](https://github.com/DV8FromTheWorld/JDA)[^gateway][^interactions][^rest][^voice] - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 
 ### [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
