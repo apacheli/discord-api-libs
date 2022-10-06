@@ -8,6 +8,14 @@
     "gateway",
     "interactions",
     "rest",
-    "webhooks"
-  ]
+    "voice"
+  ],
+  "urls": {
+    "homepage": "jda.wiki",
+    "documentation": "ci.dv8tion.net/job/JDA5/javadoc",
+    "discord": "discord.gg/jda",
+    "others": {
+      "open_collective": "opencollective.com/java-jda"
+    }
+  }
 }
