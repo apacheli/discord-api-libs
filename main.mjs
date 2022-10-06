@@ -21,7 +21,6 @@ await Promise.all([
 const features = [
   "gateway",
   "rest",
-  "webhooks",
 ];
 
 const footnotes = {
