@@ -9,5 +9,13 @@
     "interactions",
     "rest",
     "webhooks"
-  ]
+  ],
+  "urls": {
+    "homepage": "https://yourwaifu.dev/sleepy-discord/",
+    "documentation": "https://yourwaifu.dev/sleepy-discord/docs",
+    "discord": "https://discord.com/invite/5VDrVfK",
+    "others": {
+      "github-sponsors": "https://github.com/sponsors/yourWaifu"
+    }
+  }
 }
