@@ -196,6 +196,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [detritus](https://github.com/detritusjs/client) - A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands)[^interactions] - Node.JS Slash Commands for Discord
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
+- [droff](https://github.com/tim-smart/droff) - Simple Discord client powered by RxJS and Axios
 - [harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
 - [klasa](https://github.com/dirigeants/core) - Discord API library
 - [sapphire](https://github.com/sapphiredev/framework)[^wrapper] - Discord bot framework built on top of discord.js for advanced and amazing bots.
