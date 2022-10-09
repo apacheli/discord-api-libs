@@ -1,0 +1,16 @@
+{
+  "name": "droff",
+  "description": "Simple Discord client powered by RxJS and Axios",
+  "language": "TypeScript",
+  "repository_url": "https://github.com/tim-smart/droff",
+  "tags": [],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest"
+  ],
+  "urls": {
+    "documentation": "https://tim-smart.github.io/droff/droff/",
+    "discord": "https://discord.gg/dtR2Mtu66Q"
+  }
+}
