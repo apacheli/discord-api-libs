@@ -1,0 +1,33 @@
+{
+  // The library's name.
+  "name": "DisGo",
+  // A description of the library.
+  // You can also just use the "About" section of the library's repository if you want.
+  "description": "A modular Golang Discord API Wrapper",
+  // The language the library is written in.
+  "language": "Go",
+  // Can be GitHub, GitLab, Bitbucket, etc.
+  "repository_url": "https://github.com/DisGoOrg/DisGo",
+  // Extra metadata.
+  "tags": [
+    // Can also mean deprecated.
+    "wrapper"
+  ],
+  // The features of the Discord API the library supports.
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ],
+  // (optional) Additional URL metadata.
+  "urls": {
+    // The link to the homepage of the library.
+    "homepage": "https://github.com/disgoorg/disgo",
+    // The link to the documentation of the library.
+    "documentation": "https://pkg.go.dev/github.com/disgoorg/disgo",
+    // A URL to the library's Discord server. (.gg for example, or a redirect)
+    "discord": "https://discord.gg/TewhTfDpvW"
+    // Additional links. You can put your support links here and whatever.
+  }
+}
