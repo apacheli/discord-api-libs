@@ -1,0 +1,20 @@
+{
+  "name": "DisGo",
+  "description": "A modular Golang Discord API Wrapper",
+  "language": "Go",
+  "repository_url": "https://github.com/DisGoOrg/DisGo",
+  "tags": [
+    "wrapper"
+  ],
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "webhooks"
+  ],
+  "urls": {
+    "homepage": "https://github.com/disgoorg/disgo",
+    "documentation": "https://pkg.go.dev/github.com/disgoorg/disgo",
+    "discord": "https://discord.gg/TewhTfDpvW"
+  }
+}
