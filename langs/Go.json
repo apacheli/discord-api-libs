@@ -5,7 +5,8 @@
     "discord-interactions-go",
     "discordgo",
     "disgord",
-    "Goscord"
+    "Goscord",
+    "DisGo"
   ],
   "website": "https://go.dev/"
 }
