@@ -4,9 +4,9 @@
     "arikawa",
     "discord-interactions-go",
     "discordgo",
+    "DisGo",
     "disgord",
-    "Goscord",
-    "DisGo"
+    "Goscord"
   ],
   "website": "https://go.dev/"
 }
