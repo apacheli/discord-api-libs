@@ -9,5 +9,14 @@
     "interactions",
     "rest",
     "webhooks"
-  ]
+  ],
+  "urls": {
+    "homepage": "https://github.com/serenity-rs/serenity",
+    "documentation": "https://docs.rs/serenity/latest/serenity/",
+    "discord": "discord.gg/serenity-rs",
+    "others": {
+      "crates.io": "https://crates.io/crates/serenity",
+      "docs.rs": "https://docs.rs/crate/serenity/latest"
+    }
+  }
 }
