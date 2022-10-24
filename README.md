@@ -38,7 +38,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [discordpp](https://github.com/DiscordPP/discordpp) - A Modularized C++ Library for the Discord API
 - [DisCPP](https://github.com/DisCPP/DisCPP) **(archived)** - Simplified, but feature rich Discord API wrapper written in modern C++.
 - [DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
-- [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. **PLEASE USE RUST FOR NEW STUFF**
+- [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. [**PLEASE USE RUST FOR NEW STUFF**](#rust)
 
 ### [Clojure](https://clojure.org/)
 
