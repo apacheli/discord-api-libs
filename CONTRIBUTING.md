@@ -1,12 +1,11 @@
 # Contributing Guide
 
-Hello, thank you for taking a look at our contributing guide. This manual will guide you to adding your library to this list. If you are adding a library of which you do not own, please ask for permission from their maintainer(s) first.
+Hello, thank you for taking a look at our contributing guide. This manual will guide you on how to add your library to the list.
 
 ### Requirements
 
-- Must be an open-source project hosted on a known Git platform (e.g., GitHub, GitLab, Bitbucket, etc).
-- Must **not** be written in an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language).
-- Must be about using the Discord API as the main proof of concept.
+- Must be open-source!
+- Must help developers interact with the Discord API (library, framework, etc).
 
 ### Setting Up
 
