@@ -1,0 +1,33 @@
+{
+  // The library's name.
+  "name": "DiscordCoreAPI",
+  // A description of the library.
+  // You can also just use the "About" section of the library's repository if you want.
+  "description": "DiscordCoreAPI An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.",
+  // The language the library is written in.
+  "language": "C++",
+  // Can be GitHub, GitLab, Bitbucket, etc.
+  "repository_url": "https://github.com/RealTimeChris/DiscordCoreAPI",
+  // Extra metadata.
+  "tags": [
+    // Can also mean deprecated.
+    "wrapper"
+  ],
+  // The features of the Discord API the library supports.
+  "features": [
+    "gateway",
+    "interactions",
+    "rest",
+    "voice",
+    "webhooks"
+  ],
+  // (optional) Additional URL metadata.
+  "urls": {
+    // The link to the homepage of the library.
+    "homepage": "https://discordcoreapi.com",
+    // The link to the documentation of the library.
+    "documentation": "https://discordcoreapi.com",
+    // A URL to the library's Discord server. (.gg for example, or a redirect)
+    "discord": "https://discord.gg/zAgEbFfZwC",
+  }
+}
