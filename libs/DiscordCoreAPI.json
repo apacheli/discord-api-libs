@@ -3,7 +3,7 @@
   "name": "DiscordCoreAPI",
   // A description of the library.
   // You can also just use the "About" section of the library's repository if you want.
-  "description": "DiscordCoreAPI An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.",
+  "description": "DiscordCoreAPI: An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.",
   // The language the library is written in.
   "language": "C++",
   // Can be GitHub, GitLab, Bitbucket, etc.
