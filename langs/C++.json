@@ -2,6 +2,7 @@
   "name": "C++",
   "libraries": [
     "aegis.cpp",
+    "DiscordCoreAPI",
     "discordpp",
     "DisCPP",
     "DPP",
