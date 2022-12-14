@@ -3,9 +3,7 @@
   "description": "DiscordCoreAPI: An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.",
   "language": "C++",
   "repository_url": "https://github.com/RealTimeChris/DiscordCoreAPI",
-  "tags": [
-    "wrapper"
-  ],
+  "tags": [],
   "features": [
     "gateway",
     "interactions",
