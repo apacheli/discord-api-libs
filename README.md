@@ -35,7 +35,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 ### [C++](https://cplusplus.com/)
 
 - [aegis.cpp](https://github.com/zeroxs/aegis.cpp) **(archived)** - Discord C++ library for interfacing with the API. Join our server: https://discord.gg/w7Y3Bb8
-- [DiscordCoreAPI](https://github.com/RealTimeChris/DiscordCoreAPI)[^wrapper] - DiscordCoreAPI: An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.
+- [DiscordCoreAPI](https://github.com/RealTimeChris/DiscordCoreAPI) - DiscordCoreAPI: An extremely efficient and lightweight C++ Discord library, with custom asynchronous coroutines.
 - [discordpp](https://github.com/DiscordPP/discordpp) - A Modularized C++ Library for the Discord API
 - [DisCPP](https://github.com/DisCPP/DisCPP) **(archived)** - Simplified, but feature rich Discord API wrapper written in modern C++.
 - [DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
