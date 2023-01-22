@@ -9,9 +9,9 @@ Hello, thank you for taking a look at our contributing guide. This manual will g
 
 ### Setting Up
 
-- Clone the repository: `$ git clone https://github.com/apacheli/discord-api-libs`
+- Fork and clone the repository
 - Make the necessary changes
-- (optional) Run `node .` to view the new `README.md`
+- (Optional) Run `node .` to view the new `README.md`
 - Commit and push your changes
 - Create a pull request
 
