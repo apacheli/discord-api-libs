@@ -1,7 +1,0 @@
-{
-  "name": "Scala",
-  "libraries": [
-    "AckCord"
-  ],
-  "website": "https://www.scala-lang.org/"
-}

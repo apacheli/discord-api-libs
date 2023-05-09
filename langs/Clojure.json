@@ -1,9 +1,0 @@
-{
-  "name": "Clojure",
-  "libraries": [
-    "discljord",
-    "discord.clj",
-    "ring-discord-auth"
-  ],
-  "website": "https://clojure.org/"
-}

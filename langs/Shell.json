@@ -1,7 +1,0 @@
-{
-  "name": "Shell",
-  "libraries": [
-    "discord.sh"
-  ],
-  "website": "https://www.shellscript.sh/"
-}
