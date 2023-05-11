@@ -209,4 +209,4 @@ A curated list of open-source libraries for developing with the Discord API.
 [^rest]: This library is designed specifically for rest
 [^rpc]: This library is designed specifically for rpc
 [^voice]: This library is designed specifically for voice
-[^webhooks]: This library is designed specifically for webhooks
+[^webhooks]: This library is designed specifically for `webhooks`

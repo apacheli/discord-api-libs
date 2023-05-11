@@ -50,7 +50,7 @@ A curated list of open-source libraries for developing with the Discord API.
 
     s += "\n---\n\n"
     for feature in features:
-        s += f"[^{feature}]: This library is designed specifically for {feature}\n"
+        s += f"[^{feature}]: This library is designed specifically for `{feature}`\n"
 
     with open("README.md", "w", encoding="utf8") as f:
         f.write(s)
