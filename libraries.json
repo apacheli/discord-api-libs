@@ -5,7 +5,9 @@
     "description": "Implementation of the Discord Voice API for discord.js and other JS/TS libraries",
     "license": "Apache License 2.0",
     "created_at": "2020-12-16",
-    "features": [],
+    "features": [
+      "voice"
+    ],
     "tags": [
       "archived"
     ],
@@ -17,7 +19,10 @@
     "description": "Discord API client to power Discord API clients via the power of love, friendship, and HTTP \ud83d\udc96",
     "license": "Other",
     "created_at": "2020-07-25",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -29,7 +34,10 @@
     "description": "A Discord library for Scala using Akka",
     "license": "MIT License",
     "created_at": "2017-03-30",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -39,7 +47,10 @@
     "description": "Discord C++ library for interfacing with the API. Join our server: https://discord.gg/w7Y3Bb8",
     "license": "MIT License",
     "created_at": "2017-09-25",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -51,7 +62,10 @@
     "description": "A discord library for Elixir",
     "license": "MIT License",
     "created_at": "2017-02-04",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -63,7 +77,10 @@
     "description": "A Golang library and framework for the Discord API.",
     "license": "ISC License",
     "created_at": "2020-01-02",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -73,8 +90,13 @@
     "description": "An asynchronous library to interact with Discord API",
     "license": "MIT License",
     "created_at": "2019-09-15",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "calamity": {
@@ -83,7 +105,10 @@
     "description": "A library for writing discord bots in haskell",
     "license": "MIT License",
     "created_at": "2018-11-19",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -93,7 +118,10 @@
     "description": "A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "created_at": "2018-09-02",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -103,8 +131,13 @@
     "description": "Concoction is a Discord library for Elixir.",
     "license": "MIT License",
     "created_at": "2020-09-03",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "concord": {
@@ -113,7 +146,10 @@
     "description": "A Discord API wrapper library made in C",
     "license": "MIT License",
     "created_at": "2022-01-06",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -123,8 +159,13 @@
     "description": "A modern Elixir wrapper for Discord.",
     "license": "Apache License 2.0",
     "created_at": "2017-12-29",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "crux": {
@@ -133,8 +174,13 @@
     "description": "Repository creating the umbrella documentation for all crux libraries",
     "license": null,
     "created_at": "2018-04-25",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "Deno-Discord-Slash-Commands": {
@@ -143,7 +189,10 @@
     "description": "Deno Slash Commands for Discord",
     "license": "MIT License",
     "created_at": "2021-02-28",
-    "features": [],
+    "features": [
+      "fork",
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -153,8 +202,13 @@
     "description": "A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.",
     "license": "BSD 2-Clause \"Simplified\" License",
     "created_at": "2018-02-03",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "dimscord": {
@@ -163,7 +217,10 @@
     "description": "A Discord Bot & REST Library for Nim.",
     "license": "MIT License",
     "created_at": "2020-04-23",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -173,7 +230,11 @@
     "description": "Your library to write discord bots in C# with focus on always providing access to the latest discord features.",
     "license": "Other",
     "created_at": "2021-06-28",
-    "features": [],
+    "features": [
+      "fork",
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -183,7 +244,10 @@
     "description": "A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability",
     "license": "Eclipse Public License 1.0",
     "created_at": "2017-11-18",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -193,7 +257,10 @@
     "description": "Discord Python library for people that like to dance",
     "license": null,
     "created_at": "2016-08-02",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -205,7 +272,10 @@
     "description": "Haskell library for writing Discord bots",
     "license": "Other",
     "created_at": "2018-06-12",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -215,8 +285,12 @@
     "description": "discord interactions",
     "license": "MIT License",
     "created_at": "2020-12-19",
-    "features": [],
-    "tags": [],
+    "features": [
+      "interactions"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "discord-interactions-js": {
@@ -225,7 +299,9 @@
     "description": "JS/Node helpers for Discord Interactions",
     "license": "MIT License",
     "created_at": "2020-12-07",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -235,7 +311,9 @@
     "description": "PHP utilities for building Discord Interaction webhooks",
     "license": null,
     "created_at": "2020-12-12",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -245,7 +323,9 @@
     "description": "Useful tools for building interactions in Python",
     "license": "MIT License",
     "created_at": "2020-12-11",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -255,7 +335,9 @@
     "description": "C# custom implementation for Discord Rich Presence. Not deprecated and still available!",
     "license": "MIT License",
     "created_at": "2018-01-18",
-    "features": [],
+    "features": [
+      "rpc"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -265,7 +347,10 @@
     "description": "Rust library for the Discord chat client API",
     "license": "MIT License",
     "created_at": "2015-11-27",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -275,8 +360,12 @@
     "description": "Node.JS Slash Commands for Discord",
     "license": "MIT License",
     "created_at": "2020-12-10",
-    "features": [],
-    "tags": [],
+    "features": [
+      "interactions"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "discord-webhooks": {
@@ -285,7 +374,9 @@
     "description": "Provides easy to use bindings for the Discord Webhook API",
     "license": "Apache License 2.0",
     "created_at": "2018-10-30",
-    "features": [],
+    "features": [
+      "webhooks"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -295,7 +386,10 @@
     "description": "A Clojure library for creating Discord bots",
     "license": "MIT License",
     "created_at": "2017-06-25",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -305,7 +399,10 @@
     "description": "Have you heard of our lord and savior Haskell?",
     "license": "MIT License",
     "created_at": "2016-10-14",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -317,7 +414,10 @@
     "description": "A small, single-file library for creating DiscordApp clients from Node.js or the browser",
     "license": "MIT License",
     "created_at": "2015-07-30",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -329,7 +429,10 @@
     "description": "The Julia Discord API Wrapper",
     "license": "MIT License",
     "created_at": "2018-10-05",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -339,7 +442,10 @@
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "license": "Apache License 2.0",
     "created_at": "2015-08-10",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -349,8 +455,13 @@
     "description": "A discord library written in Kotlin for Kotlin/JVM",
     "license": "Apache License 2.0",
     "created_at": "2020-01-06",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "Discord.Net": {
@@ -359,7 +470,10 @@
     "description": "An unofficial .Net wrapper for the Discord API (https://discord.com/)",
     "license": "MIT License",
     "created_at": "2015-08-04",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -369,9 +483,13 @@
     "description": "An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net",
     "license": "MIT License",
     "created_at": "2021-05-11",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
-      "archived"
+      "archived",
+      "fork"
     ],
     "urls": {}
   },
@@ -381,7 +499,10 @@
     "description": "An API wrapper for Discord written in Python.",
     "license": "MIT License",
     "created_at": "2015-08-21",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -391,7 +512,9 @@
     "description": "Write-only command-line Discord webhooks integration written in 100% Bash script",
     "license": "GNU General Public License v3.0",
     "created_at": "2018-08-12",
-    "features": [],
+    "features": [
+      "webhooks"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -401,7 +524,10 @@
     "description": "Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.",
     "license": "GNU Lesser General Public License v3.0",
     "created_at": "2015-11-07",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -411,7 +537,10 @@
     "description": "A bot library for Discord, written in C++, and featuring explicit multithreading through the usage of custom, asynchronous C++ CoRoutines.",
     "license": "GNU Lesser General Public License v2.1",
     "created_at": "2021-06-23",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -421,7 +550,10 @@
     "description": "Minimalist Discord library for Crystal. (Still WIP, but usable)",
     "license": "MIT License",
     "created_at": "2016-09-03",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -433,7 +565,10 @@
     "description": "Discord API library for Node and Deno",
     "license": "Apache License 2.0",
     "created_at": "2020-02-07",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -443,7 +578,10 @@
     "description": "(Golang) Go bindings for Discord",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "created_at": "2015-11-01",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -453,7 +591,10 @@
     "description": "Discord API library written in Lua for the Luvit runtime environment",
     "license": "MIT License",
     "created_at": "2016-04-18",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -463,8 +604,13 @@
     "description": "Discordia application commands extension",
     "license": "MIT License",
     "created_at": "2020-12-22",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "wrapper"
+    ],
     "urls": {}
   },
   "discordie": {
@@ -473,8 +619,13 @@
     "description": "Predictable JavaScript abstractions for Discord API.",
     "license": "BSD 2-Clause \"Simplified\" License",
     "created_at": "2015-10-08",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "discordnim": {
@@ -483,8 +634,13 @@
     "description": "Discord library for nim",
     "license": "MIT License",
     "created_at": "2017-04-05",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "DiscordPHP": {
@@ -493,7 +649,10 @@
     "description": "An API to interact with the popular messaging app Discord",
     "license": "MIT License",
     "created_at": "2015-08-12",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -503,7 +662,9 @@
     "description": "PHP server and client for Discord slash commands.",
     "license": "MIT License",
     "created_at": "2020-12-28",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [
       "archived"
     ],
@@ -515,7 +676,10 @@
     "description": "A Modularized C++ Library for the Discord API",
     "license": "MIT License",
     "created_at": "2016-03-27",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -525,7 +689,10 @@
     "description": "Discord API for Ruby",
     "license": "MIT License",
     "created_at": "2020-11-13",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -535,8 +702,13 @@
     "description": "A DiscordAPI made for Unity and only usable for Unity. It contains special features to make it all work.",
     "license": "MIT License",
     "created_at": "2016-06-02",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "Discore": {
@@ -545,7 +717,10 @@
     "description": "A light-weight .NET library for creating Discord bots.",
     "license": "MIT License",
     "created_at": "2016-08-26",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -555,7 +730,10 @@
     "description": "Simplified, but feature rich Discord API wrapper written in modern C++.",
     "license": "MIT License",
     "created_at": "2019-12-22",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -567,7 +745,10 @@
     "description": "A modular Golang Discord API Wrapper",
     "license": "Apache License 2.0",
     "created_at": "2021-03-04",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -577,7 +758,10 @@
     "description": "Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "created_at": "2017-11-07",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -587,7 +771,10 @@
     "description": "[Mirror of GitLab] A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.",
     "license": "Other",
     "created_at": "2018-02-21",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -597,7 +784,9 @@
     "description": "A Python wrapper for discord slash-commands and buttons, designed to extend discord.py.",
     "license": "MIT License",
     "created_at": "2021-02-03",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [
       "archived"
     ],
@@ -609,8 +798,13 @@
     "description": "An API wrapper for Discord written in Python.",
     "license": "MIT License",
     "created_at": "2021-08-28",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "fork"
+    ],
     "urls": {}
   },
   "dispike": {
@@ -619,7 +813,9 @@
     "description": "An independent, simple to use, powerful framework for creating interaction-based Discord bots. Powered by FastAPI",
     "license": "MIT License",
     "created_at": "2020-12-23",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -629,7 +825,10 @@
     "description": "An asynchronous Discord API wrapper for .NET.",
     "license": "GNU Lesser General Public License v3.0",
     "created_at": "2019-02-08",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -639,7 +838,10 @@
     "description": "C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!",
     "license": "Apache License 2.0",
     "created_at": "2021-03-25",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -649,7 +851,10 @@
     "description": "Simple Discord client powered by RxJS and Axios",
     "license": null,
     "created_at": "2021-05-07",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -659,7 +864,10 @@
     "description": "Discord Library for D",
     "license": "zlib License",
     "created_at": "2016-04-21",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -671,7 +879,10 @@
     "description": "A .NET Standard library for making bots using the Discord API.",
     "license": "MIT License",
     "created_at": "2016-09-02",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -681,7 +892,10 @@
     "description": "An API wrapper for Discord written in Python.",
     "license": "MIT License",
     "created_at": "2022-04-03",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived",
       "fork"
@@ -694,7 +908,10 @@
     "description": "A NodeJS Discord library",
     "license": "MIT License",
     "created_at": "2016-06-30",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -704,17 +921,9 @@
     "description": "A Flask extension to enable declarative definitions for Discord slash commands.",
     "license": "MIT License",
     "created_at": "2021-01-03",
-    "features": [],
-    "tags": [],
-    "urls": {}
-  },
-  "framework": {
-    "language": "TypeScript",
-    "repository_url": "https://github.com/sapphiredev/framework",
-    "description": "Discord bot framework built on top of discord.js for advanced and amazing bots.",
-    "license": "MIT License",
-    "created_at": "2020-07-20",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -724,7 +933,10 @@
     "description": "A Discord API wrapper written in Golang.",
     "license": "MIT License",
     "created_at": "2020-10-11",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -734,7 +946,10 @@
     "description": "An easy to use Discord API Library for Deno.",
     "license": "MIT License",
     "created_at": "2020-10-20",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -744,7 +959,10 @@
     "description": "Async Discord API wrapper.",
     "license": "Other",
     "created_at": "2019-12-18",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -754,7 +972,10 @@
     "description": "The most popular discord API Haxe library (because no others are good enough to be called a library)",
     "license": "GNU General Public License v3.0",
     "created_at": "2017-07-04",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -764,7 +985,10 @@
     "description": "A Discord API wrapper for Python and asyncio built on good intentions.",
     "license": "MIT License",
     "created_at": "2020-08-15",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -774,7 +998,9 @@
     "description": "A highly extensible, easy to use, and feature complete bot framework for Discord",
     "license": "MIT License",
     "created_at": "2020-12-11",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -784,7 +1010,10 @@
     "description": "An easy to use multithreaded library for creating Discord bots in Java.",
     "license": "Apache License 2.0",
     "created_at": "2015-12-31",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -794,7 +1023,10 @@
     "description": "Java wrapper for the popular chat & VOIP service: Discord https://discord.com",
     "license": "Apache License 2.0",
     "created_at": "2015-12-12",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -805,7 +1037,9 @@
     "license": "Apache License 2.0",
     "created_at": "2020-04-28",
     "features": [],
-    "tags": [],
+    "tags": [
+      "wrapper"
+    ],
     "urls": {}
   },
   "js-cord": {
@@ -814,8 +1048,13 @@
     "description": "js-cord is a wrapper around the Discord API, written and to be used in Javascript.",
     "license": "MIT License",
     "created_at": "2021-03-11",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "klasa": {
@@ -824,8 +1063,13 @@
     "description": "Discord API library",
     "license": "MIT License",
     "created_at": "2018-10-19",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "kord": {
@@ -834,7 +1078,10 @@
     "description": "Idiomatic Kotlin Wrapper for The Discord API",
     "license": "MIT License",
     "created_at": "2019-08-17",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -844,7 +1091,10 @@
     "description": "A low level, lightweight discord API library.",
     "license": "MIT License",
     "created_at": "2019-09-25",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -854,7 +1104,10 @@
     "description": "A Discord library written in C",
     "license": "GNU Lesser General Public License v2.1",
     "created_at": "2017-11-12",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -866,7 +1119,10 @@
     "description": "A client library for the discordapp bot api",
     "license": null,
     "created_at": "2017-10-27",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -876,8 +1132,13 @@
     "description": "A Lua wrapper for Discord.",
     "license": "MIT License",
     "created_at": "2016-05-19",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "NAFF": {
@@ -886,7 +1147,10 @@
     "description": "A Python API wrapper for Discord",
     "license": "MIT License",
     "created_at": "2021-07-28",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -898,8 +1162,13 @@
     "description": "A Python wrapper for the Discord API forked from discord.py",
     "license": "MIT License",
     "created_at": "2021-08-28",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "fork"
+    ],
     "urls": {}
   },
   "nimcord": {
@@ -908,7 +1177,10 @@
     "description": "Memory optimized, simple, and feature rich Discord API wrapper written in Nim.",
     "license": "MIT License",
     "created_at": "2020-05-28",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -920,7 +1192,10 @@
     "description": "Elixir Discord Library",
     "license": "MIT License",
     "created_at": "2016-08-26",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -930,8 +1205,13 @@
     "description": "Dedicated to maintaining the Yasmin core used by Palace Bot #9203",
     "license": "Apache License 2.0",
     "created_at": "2020-05-11",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "nyxx": {
@@ -940,7 +1220,10 @@
     "description": "Wrapper around Discord API for Dart",
     "license": "Apache License 2.0",
     "created_at": "2018-06-17",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -950,7 +1233,10 @@
     "description": "C Multi-REST API library for Discord, Slack, Reddit, etc.",
     "license": "MIT License",
     "created_at": "2020-07-22",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -960,8 +1246,13 @@
     "description": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
     "license": "MIT License",
     "created_at": "2021-08-28",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "fork"
+    ],
     "urls": {}
   },
   "racket-cord": {
@@ -970,7 +1261,10 @@
     "description": "A discord library for racket",
     "license": "MIT License",
     "created_at": "2017-10-16",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -980,7 +1274,10 @@
     "description": "Raku module for interacting with the Discord API.",
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "created_at": "2018-06-29",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -990,7 +1287,10 @@
     "description": "A data-oriented C# Discord library, focused on high-performance concurrency and robust design.",
     "license": "GNU Lesser General Public License v3.0",
     "created_at": "2020-05-26",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1000,8 +1300,12 @@
     "description": "Discord REST API Client",
     "license": "MIT License",
     "created_at": "2017-01-18",
-    "features": [],
-    "tags": [],
+    "features": [
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "ring-discord-auth": {
@@ -1010,8 +1314,25 @@
     "description": "Fast and secure functions and ring middleware to verify ED-25519-signed Discord interactions",
     "license": "MIT License",
     "created_at": "2021-06-07",
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
+    "urls": {}
+  },
+  "sapphire": {
+    "language": "TypeScript",
+    "repository_url": "https://github.com/sapphiredev/framework",
+    "description": "Discord bot framework built on top of discord.js for advanced and amazing bots.",
+    "license": "MIT License",
+    "created_at": "2020-07-20",
     "features": [],
-    "tags": [],
+    "tags": [
+      "wrapper"
+    ],
     "urls": {}
   },
   "serenity": {
@@ -1020,7 +1341,10 @@
     "description": "A Rust library for the Discord API.",
     "license": "ISC License",
     "created_at": "2016-11-06",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1030,8 +1354,13 @@
     "description": "",
     "license": "MIT License",
     "created_at": "2021-05-06",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "slash-create": {
@@ -1040,7 +1369,9 @@
     "description": "\ud83d\udde1\ufe0f Creator and handler for Discord's slash commands",
     "license": "MIT License",
     "created_at": "2020-12-15",
-    "features": [],
+    "features": [
+      "interactions"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1050,7 +1381,10 @@
     "description": "C++ library for the Discord chat client. Please use Rust for new bots",
     "license": "MIT License",
     "created_at": "2016-08-02",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1060,7 +1394,9 @@
     "description": "An async Rust library for the Discord voice API",
     "license": "ISC License",
     "created_at": "2020-11-13",
-    "features": [],
+    "features": [
+      "voice"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1070,8 +1406,13 @@
     "description": "Discord API Client for Swift",
     "license": "MIT License",
     "created_at": "2016-10-01",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   },
   "Sword": {
@@ -1080,7 +1421,10 @@
     "description": "Discord library for Swift",
     "license": "MIT License",
     "created_at": "2016-12-19",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [
       "archived"
     ],
@@ -1092,7 +1436,10 @@
     "description": "Powerful, flexible, and scalable ecosystem of Rust libraries for the Discord API.",
     "license": "ISC License",
     "created_at": "2019-09-01",
-    "features": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
     "tags": [],
     "urls": {}
   },
@@ -1102,8 +1449,13 @@
     "description": "Discord library in ruby",
     "license": "MIT License",
     "created_at": "2020-08-28",
-    "features": [],
-    "tags": [],
+    "features": [
+      "gateway",
+      "rest"
+    ],
+    "tags": [
+      "archived"
+    ],
     "urls": {}
   }
 }

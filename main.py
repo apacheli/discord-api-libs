@@ -1,6 +1,17 @@
 import json
 
 
+features = [
+    "gateway",
+    "interactions",
+    "oauth2",
+    "rest",
+    "rpc",
+    "voice",
+    "webhooks"
+]
+
+
 def main():
     s = """# Discord API Libraries
 
@@ -25,10 +36,21 @@ A curated list of open-source libraries for developing with the Discord API.
             for library in language_data.get("libraries"):
                 library_data = libraries.get(library)
                 s += f"- [{library}]({library_data.get('repository_url')})"
+
+                library_features = library_data.get("features")
+                if len(library_features) > 0 and ("gateway" not in library_features or "rest" not in library_features):
+                    for feature in features:
+                        if feature in library_features:
+                            s += f"[^{feature}]"
+
                 description = library_data.get("description")
                 if description:
                     s += f" - {description}"
                 s += "\n"
+
+    s += "\n---\n\n"
+    for feature in features:
+        s += f"[^{feature}]: This library is designed specifically for {feature}\n"
 
     with open("README.md", "w", encoding="utf8") as f:
         f.write(s)
