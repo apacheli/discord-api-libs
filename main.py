@@ -48,7 +48,7 @@ A curated list of open-source libraries for developing with the Discord API.
                     s += f" - {description}"
                 s += "\n"
 
-    s += "\n---\n\n"
+    s += "\n"
     for feature in features:
         s += f"[^{feature}]: This library is designed specifically for `{feature}`\n"
 
