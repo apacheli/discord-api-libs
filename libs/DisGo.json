@@ -3,9 +3,7 @@
   "description": "A modular Golang Discord API Wrapper",
   "language": "Go",
   "repository_url": "https://github.com/DisGoOrg/DisGo",
-  "tags": [
-    "wrapper"
-  ],
+  "tags": [],
   "features": [
     "gateway",
     "interactions",
