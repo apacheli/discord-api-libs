@@ -76,7 +76,7 @@ Want to help contribute to this project? Take a look at [our contributing guide]
 - [arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API.
 - [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go)[^interactions] - discord interactions
 - [discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
-- [DisGo](https://github.com/DisGoOrg/DisGo)[^wrapper] - A modular Golang Discord API Wrapper
+- [DisGo](https://github.com/DisGoOrg/DisGo) - A modular Golang Discord API Wrapper
 - [disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
 - [Goscord](https://github.com/Goscord/Goscord) - A Discord API wrapper written in Golang.
 
