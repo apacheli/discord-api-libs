@@ -41,7 +41,7 @@ A curated list of open-source libraries for developing with the Discord API.
 
 - [discljord](https://github.com/discljord/discljord) - A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability
 - [discord.clj](https://github.com/gizmo385/discord.clj) - A Clojure library for creating Discord bots
-- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth) - Fast and secure functions and ring middleware to verify ED-25519-signed Discord interactions
+- [ring-discord-auth](https://github.com/JohnnyJayJay/ring-discord-auth)[^interactions] - Fast and secure functions and ring middleware to verify ED-25519-signed Discord interactions
 
 ## [Common Lisp](https://common-lisp.net/)
 
