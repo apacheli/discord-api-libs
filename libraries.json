@@ -1315,8 +1315,7 @@
     "license": "MIT License",
     "created_at": "2021-06-07",
     "features": [
-      "gateway",
-      "rest"
+      "interactions"
     ],
     "tags": [
       "archived"
