@@ -1,7 +1,0 @@
-{
-  "name": "Racket",
-  "libraries": [
-    "racket-cord"
-  ],
-  "website": "https://racket-lang.org/"
-}

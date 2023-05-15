@@ -1,0 +1,249 @@
+{
+  "C": {
+    "url": "https://www.open-std.org/jtc1/sc22/wg14/",
+    "libraries": [
+      "concord",
+      "libdiscord",
+      "orca"
+    ]
+  },
+  "C#": {
+    "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+    "libraries": [
+      "DisCatSharp",
+      "discord-rpc-csharp",
+      "Discord.Net",
+      "Discord.Net-Labs",
+      "DiscordUnity",
+      "Discore",
+      "Disqord",
+      "DSharpPlus",
+      "Remora.Discord"
+    ]
+  },
+  "C++": {
+    "url": "https://cplusplus.com/",
+    "libraries": [
+      "aegis.cpp",
+      "DiscordCoreAPI",
+      "discordpp",
+      "DisCPP",
+      "DPP",
+      "sleepy-discord"
+    ]
+  },
+  "Clojure": {
+    "url": "https://clojure.org/",
+    "libraries": [
+      "discljord",
+      "discord.clj",
+      "ring-discord-auth"
+    ]
+  },
+  "Common Lisp": {
+    "url": "https://common-lisp.net/",
+    "libraries": [
+      "lispcord"
+    ]
+  },
+  "Crystal": {
+    "url": "https://crystal-lang.org/",
+    "libraries": [
+      "discordcr"
+    ]
+  },
+  "D": {
+    "url": "https://dlang.org/",
+    "libraries": [
+      "dscord"
+    ]
+  },
+  "Dart": {
+    "url": "https://dart.dev/",
+    "libraries": [
+      "nyxx"
+    ]
+  },
+  "Elixir": {
+    "url": "https://elixir-lang.org/",
+    "libraries": [
+      "alchemy",
+      "concoction",
+      "coxir",
+      "crux",
+      "nostrum"
+    ]
+  },
+  "Go": {
+    "url": "https://go.dev/",
+    "libraries": [
+      "arikawa",
+      "discord-interactions-go",
+      "discordgo",
+      "disgo",
+      "disgord",
+      "goscord"
+    ]
+  },
+  "Haskell": {
+    "url": "https://www.haskell.org/",
+    "libraries": [
+      "calamity",
+      "discord-haskell",
+      "Discord.hs"
+    ]
+  },
+  "Haxe": {
+    "url": "https://haxe.org/",
+    "libraries": [
+      "Haxicord"
+    ]
+  },
+  "Java": {
+    "url": "https://www.java.com/",
+    "libraries": [
+      "catnip",
+      "discord-webhooks",
+      "Discord4J",
+      "Javacord",
+      "JDA"
+    ]
+  },
+  "JavaScript": {
+    "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+    "libraries": [
+      "discord.io",
+      "discordie",
+      "eris",
+      "js-cord"
+    ]
+  },
+  "Julia": {
+    "url": "https://julialang.org/",
+    "libraries": [
+      "Discord.jl"
+    ]
+  },
+  "Kotlin": {
+    "url": "https://kotlinlang.org/",
+    "libraries": [
+      "Discord.Kt",
+      "Diskord",
+      "jda-ktx",
+      "kord"
+    ]
+  },
+  "Lua": {
+    "url": "https://www.lua.org/",
+    "libraries": [
+      "Discordia",
+      "discordia-slash",
+      "lacord",
+      "litcord"
+    ]
+  },
+  "Nim": {
+    "url": "https://nim-lang.org/",
+    "libraries": [
+      "dimscord",
+      "discordnim",
+      "nimcord"
+    ]
+  },
+  "PHP": {
+    "url": "https://www.php.net/",
+    "libraries": [
+      "discord-interactions-php",
+      "DiscordPHP",
+      "DiscordPHP-Slash",
+      "Nyasmin",
+      "restcord"
+    ]
+  },
+  "Python": {
+    "url": "https://www.python.org/",
+    "libraries": [
+      "disco",
+      "discord-interactions-python",
+      "discord.py",
+      "dislash.py",
+      "disnake",
+      "dispike",
+      "enhanced-discord.py",
+      "flask-discord-interactions",
+      "hata",
+      "hikari",
+      "interactions.py",
+      "NAFF",
+      "nextcord",
+      "pycord"
+    ]
+  },
+  "Racket": {
+    "url": "https://racket-lang.org/",
+    "libraries": [
+      "racket-cord"
+    ]
+  },
+  "Raku": {
+    "url": "https://www.raku.org/",
+    "libraries": [
+      "raku-api-discord"
+    ]
+  },
+  "Ruby": {
+    "url": "https://www.ruby-lang.org/en/",
+    "libraries": [
+      "discordrb",
+      "vox"
+    ]
+  },
+  "Rust": {
+    "url": "https://www.rust-lang.org/",
+    "libraries": [
+      "accord",
+      "automate",
+      "discord-rs",
+      "serenity",
+      "songbird",
+      "twilight"
+    ]
+  },
+  "Scala": {
+    "url": "https://www.scala-lang.org/",
+    "libraries": [
+      "AckCord"
+    ]
+  },
+  "Shell": {
+    "url": "https://www.gnu.org/software/bash/",
+    "libraries": [
+      "discord.sh"
+    ]
+  },
+  "Swift": {
+    "url": "https://www.swift.org/",
+    "libraries": [
+      "SwiftDiscord",
+      "Sword"
+    ]
+  },
+  "TypeScript": {
+    "url": "https://www.typescriptlang.org/",
+    "libraries": [
+      "@discordjs/voice",
+      "Deno-Discord-Slash-Commands",
+      "detritus",
+      "discord-interactions-js",
+      "discord-slash-commands",
+      "discord.js",
+      "discordeno",
+      "droff",
+      "harmony",
+      "klasa",
+      "sapphire",
+      "skycord",
+      "slash-create"
+    ]
+  }
+}

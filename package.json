@@ -1,6 +1,0 @@
-{
-  "name": "discord-api-libs",
-  "version": "1.0.0",
-  "description": "Discord API Libraries 🚀",
-  "main": "./main.mjs"
-}
