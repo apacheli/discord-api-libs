@@ -115,7 +115,8 @@
       "discord.io",
       "discordie",
       "eris",
-      "js-cord"
+      "js-cord",
+      "interactions.js"
     ]
   },
   "Julia": {

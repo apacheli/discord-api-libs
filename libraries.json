@@ -1004,6 +1004,19 @@
     "tags": [],
     "urls": {}
   },
+  "interactions.js": {
+    "language": "JavaScript",
+    "repository_url": "https://github.com/fb-sean/interactions.js",
+    "description": "A powerful JavaScript library to work with discords interactions",
+    "license": " Apache-2.0 License",
+    "created_at": "2022-08-18",
+    "features": [
+      "interactions",
+      "rest"
+    ],
+    "tags": [],
+    "urls": {}
+  },
   "Javacord": {
     "language": "Java",
     "repository_url": "https://github.com/Javacord/Javacord",
