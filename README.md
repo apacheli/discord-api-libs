@@ -100,6 +100,7 @@ A curated list of open-source libraries for developing with the Discord API.
 - [discordie](https://github.com/qeled/discordie) - Predictable JavaScript abstractions for Discord API.
 - [eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [js-cord](https://github.com/jay3332/js-cord) - js-cord is a wrapper around the Discord API, written and to be used in Javascript.
+- [interactions.js](https://github.com/fb-sean/interactions.js) - interactions.js is an HTTP-only wrapper around the Discord API.
 
 ## [Julia](https://julialang.org/)
 
