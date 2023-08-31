@@ -992,18 +992,6 @@
     "tags": [],
     "urls": {}
   },
-  "interactions.py": {
-    "language": "Python",
-    "repository_url": "https://github.com/interactions-py/interactions.py",
-    "description": "A highly extensible, easy to use, and feature complete bot framework for Discord",
-    "license": "MIT License",
-    "created_at": "2020-12-11",
-    "features": [
-      "interactions"
-    ],
-    "tags": [],
-    "urls": {}
-  },
   "interactions.js": {
     "language": "JavaScript",
     "repository_url": "https://github.com/fb-sean/interactions.js",
@@ -1013,6 +1001,18 @@
     "features": [
       "interactions",
       "rest"
+    ],
+    "tags": [],
+    "urls": {}
+  },
+  "interactions.py": {
+    "language": "Python",
+    "repository_url": "https://github.com/interactions-py/interactions.py",
+    "description": "A highly extensible, easy to use, and feature complete bot framework for Discord",
+    "license": "MIT License",
+    "created_at": "2020-12-11",
+    "features": [
+      "interactions"
     ],
     "tags": [],
     "urls": {}
