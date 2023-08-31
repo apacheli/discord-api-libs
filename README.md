@@ -99,6 +99,7 @@ A curated list of open-source libraries for developing with the Discord API.
 - [discord.io](https://github.com/izy521/discord.io) - A small, single-file library for creating DiscordApp clients from Node.js or the browser
 - [discordie](https://github.com/qeled/discordie) - Predictable JavaScript abstractions for Discord API.
 - [eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
+- [interactions.js](https://github.com/fb-sean/interactions.js)[^interactions][^rest] - A powerful JavaScript library to work with discords interactions
 - [js-cord](https://github.com/jay3332/js-cord) - js-cord is a wrapper around the Discord API, written and to be used in Javascript.
 
 ## [Julia](https://julialang.org/)
