@@ -9,6 +9,7 @@ A curated list of open-source libraries for developing with the Discord API.
 - [Discord Developer Documentation](https://discord.com/developers/docs/intro)
 - [Discord Developers Server](https://discord.gg/discord-developers)
 - [discord-api-docs](https://github.com/discord/discord-api-docs)
+- [discord-api-spec](https://github.com/discord/discord-api-spec)
 
 ## [C](https://www.open-std.org/jtc1/sc22/wg14/)
 
@@ -202,10 +203,10 @@ A curated list of open-source libraries for developing with the Discord API.
 - [skycord](https://github.com/skycord/skycord)
 - [slash-create](https://github.com/Snazzah/slash-create)[^interactions] - 🗡️ Creator and handler for Discord's slash commands
 
-[^gateway]: This library is designed specifically for `gateway`
-[^interactions]: This library is designed specifically for `interactions`
-[^oauth2]: This library is designed specifically for `oauth2`
-[^rest]: This library is designed specifically for `rest`
-[^rpc]: This library is designed specifically for `rpc`
-[^voice]: This library is designed specifically for `voice`
-[^webhooks]: This library is designed specifically for `webhooks`
+[^gateway]: This library is designed for `gateway`
+[^interactions]: This library is designed for `interactions`
+[^oauth2]: This library is designed for `oauth2`
+[^rest]: This library is designed for `rest`
+[^rpc]: This library is designed for `rpc`
+[^voice]: This library is designed for `voice`
+[^webhooks]: This library is designed for `webhooks`
