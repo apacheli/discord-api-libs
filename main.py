@@ -24,6 +24,7 @@ A curated list of open-source libraries for developing with the Discord API.
 - [Discord Developer Documentation](https://discord.com/developers/docs/intro)
 - [Discord Developers Server](https://discord.gg/discord-developers)
 - [discord-api-docs](https://github.com/discord/discord-api-docs)
+- [discord-api-spec](https://github.com/discord/discord-api-spec)
 """
 
     with open("languages.json") as languages, open("libraries.json") as libraries:
@@ -50,7 +51,7 @@ A curated list of open-source libraries for developing with the Discord API.
 
     s += "\n"
     for feature in features:
-        s += f"[^{feature}]: This library is designed specifically for `{feature}`\n"
+        s += f"[^{feature}]: This library is designed for `{feature}`\n"
 
     with open("README.md", "w", encoding="utf8") as f:
         f.write(s)
