@@ -190,10 +190,11 @@
     "license": "MIT License",
     "created_at": "2021-02-28",
     "features": [
-      "fork",
       "interactions"
     ],
-    "tags": [],
+    "tags": [
+      "fork"
+    ],
     "urls": {}
   },
   "detritus": {
@@ -231,11 +232,12 @@
     "license": "Other",
     "created_at": "2021-06-28",
     "features": [
-      "fork",
       "gateway",
       "rest"
     ],
-    "tags": [],
+    "tags": [
+      "fork"
+    ],
     "urls": {}
   },
   "discljord": {
