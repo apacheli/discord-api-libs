@@ -40,10 +40,11 @@ A curated list of open-source libraries for developing with the Discord API.
 
                 library_features = library_data.get("features")
                 if len(library_features) > 0 and ("gateway" not in library_features or "rest" not in library_features):
-                    for feature in features:
-                        if feature in library_features:
-                            s += f"[^{feature}]"
+                    for feature in library_features:
+                        s += f"[^{feature}]"
 
+                if "archived" in library_data.get("tags"):
+                    s += " **(archived)**"
                 description = library_data.get("description")
                 if description:
                     s += f" - {description}"
