@@ -43,7 +43,7 @@ for (let i = 0; i < repos.length; i++) {
   libraries[data.name] = {
     archived: data.archived,
     created_at: Date.parse(data.created_at),
-    description: data.description ?? "",
+    description: data.description?.trim() ?? "",
     fork: data.fork,
     forks: data.forks_count,
     homepage: data.homepage,
@@ -53,7 +53,7 @@ for (let i = 0; i < repos.length; i++) {
     stars: data.stargazers_count,
     topics: data.topics.sort(sorter),
     url: data.html_url,
-    watchers: data.watchers_count,
+    watchers: data.subscribers_count,
   };
   (languages[data.language] ??= []).push(data.name);
   await sleep(interval);
