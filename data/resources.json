@@ -1,0 +1,34 @@
+{
+  "Community": [
+    {
+      "name": "Discord API Server",
+      "url": "https://discord.gg/discord-api"
+    },
+    {
+      "name": "Discord Bots Server",
+      "url": "https://discord.gg/0cDvIgU2voWn4BaD"
+    },
+    {
+      "name": "Discord Developers Server",
+      "url": "https://discord.gg/discord-developers"
+    },
+    {
+      "name": "The Coding Den",
+      "url": "https://discord.gg/code"
+    }
+  ],
+  "Tools": [
+    {
+      "name": "discord-api-docs",
+      "url": "https://github.com/discord/discord-api-docs"
+    },
+    {
+      "name": "discord-api-spec",
+      "url": "https://github.com/discord/discord-api-spec"
+    },
+    {
+      "name": "Discord Developer Documentation",
+      "url": "https://discord.com/developers/docs/intro"
+    }
+  ]
+}
