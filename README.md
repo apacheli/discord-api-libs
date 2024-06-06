@@ -1,6 +1,8 @@
-# Discord API Libraries
+# Discord API Libraries 🚀
 
 A curated list of open-source libraries for interacting with Discord's API.
+
+Something off? Want to contribute? Take a peek at [our contributing guide](CONTRIBUTING.md).
 
 ## Resources
 

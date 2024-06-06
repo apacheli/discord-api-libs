@@ -10,29 +10,33 @@ const sortObject = (x) =>
 const languages = {};
 const libraries = {};
 
-// Long delay because GitHub is more restrictive to no-Authorization requests
-const interval = 10_000;
+const interval = 5_000;
 const time = repos.length * interval / 60_000;
 
-console.log(`Time: ${time}-${time * 1.05} m\nRepositories: ${repos.length}\n`);
+console.log(`Time: ${time}-${time * 1.25} m\nRepos: ${repos.length}\n\n`);
 
 for (let i = 0; i < repos.length; i++) {
   const repo = repos[i];
   const url = `https://api.github.com/repos${repo.substring(18)}`;
-  console.log(`[${i}/${repos.length}] Fetching ${url}...`);
+  console.log(`[${i}/${repos.length}] Fetching ${url} ...`);
   const response = await fetch(url, {
     method: "GET",
     headers: {
       "Accept": "application/vnd.github+json",
+      "Authorization": `Bearer ${process.env.TOKEN}`,
       "X-GitHub-Api-Version": "2022-11-28",
     },
   });
-  const data = await response.json();
-  if (!response.ok) {
+  console.log("Status:", response.status);
+  if (response.status === 404) {
     console.log(`    ${url} seems to have vanished...\n`);
     await sleep(interval);
     continue;
   }
+  if (!response.ok) {
+    throw new Error(response.status, await response.text());
+  }
+  const data = await response.json();
   if (repo !== data.html_url) {
     console.log(`    New URL detected: ${repo} -> ${data.html_url}\n`);
   }
@@ -64,4 +68,4 @@ await Promise.all([
   writeFile("data/libraries.json", JSON.stringify(sortObject(libraries))),
 ]);
 
-console.log("Done.");
+console.log("Done getting data.");

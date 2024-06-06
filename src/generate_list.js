@@ -1,5 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
+console.log("Generating list...");
+
 const [languages, libraries, resources] = await Promise.all([
   "languages",
   "libraries",
@@ -41,4 +43,4 @@ for (const language in languages) {
 
 await writeFile("README.md", s);
 
-console.log("Done.");
+console.log("Done generating list.");
