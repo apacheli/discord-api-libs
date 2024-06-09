@@ -1,0 +1,27 @@
+name: build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4.0.2
+      - env:
+          TOKEN: ${{ secrets.TOKEN }}
+        id: commit
+        continue-on-error: true
+        run: |
+          git config --global user.email ""
+          git config --global user.name "Discord API Libraries"
+          node src/sort_repos.js
+          node src/get_data.js
+          node src/generate_list.js
+          git add .
+          git commit -m "Deploy $GITHUB_SHA"
+      - if: steps.commit.outcome == 'success' && steps.commit.conclusion == 'success'
+        run: git push
