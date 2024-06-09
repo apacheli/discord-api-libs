@@ -30,7 +30,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### C#
 
 - [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp) - Your library to write discord apps in C# with focus on always providing access to the latest discord features
-- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available! 
+- [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!
 - [Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs) **(archived)** - An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net
 - [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity) - A DiscordAPI made for Unity and only usable for Unity. It contains special features to make it all work.
@@ -82,7 +82,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 - [arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API.
 - [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go) - discord interactions
-- [discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
+- [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper
 - [disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
 - [goscord](https://github.com/Goscord/goscord) - A Discord API wrapper written in Golang.
@@ -99,7 +99,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Java
 
-- [catnip](https://github.com/mewna/catnip) - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
+- [catnip](https://github.com/mewna/catnip) **(archived)** - A reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
 - [discord-webhooks](https://github.com/MinnDevelopment/discord-webhooks) - Provides easy to use bindings for the Discord Webhook API
 - [Discord4J](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 - [Javacord](https://github.com/Javacord/Javacord) - An easy to use multithreaded library for creating Discord bots in Java.
@@ -122,7 +122,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [Discord.Kt](https://github.com/Jofairden/Discord.Kt) - A discord library written in Kotlin for Kotlin/JVM
 - [diskord](https://github.com/JesseCorbett/diskord) - [Mirror of GitLab] A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.
 - [jda-ktx](https://github.com/MinnDevelopment/jda-ktx) - Collection of useful Kotlin extensions for JDA
-- [kord](https://github.com/kordlib/kord) -  Idiomatic Kotlin Wrapper for The Discord API
+- [kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
 
 ### Lua
 
@@ -172,7 +172,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Ruby
 
-- [discordrb](https://github.com/shardlab/discordrb) - Discord API for Ruby 
+- [discordrb](https://github.com/shardlab/discordrb) - Discord API for Ruby
 - [vox](https://github.com/swarley/vox) - Discord library in ruby
 
 ### Rust
@@ -201,8 +201,8 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 - [client](https://github.com/detritusjs/client) - A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.
 - [core](https://github.com/dirigeants/core) **(archived)** - Discord API library
-- [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands) - Deno Slash Commands for Discord 
-- [discord-interactions-js](https://github.com/discord/discord-interactions-js) - JS/Node helpers for Discord Interactions 
+- [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands) - Deno Slash Commands for Discord
+- [discord-interactions-js](https://github.com/discord/discord-interactions-js) - JS/Node helpers for Discord Interactions
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands) - Node.JS Slash Commands for Discord
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
