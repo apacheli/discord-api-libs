@@ -84,7 +84,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [discord-interactions-go](https://github.com/bsdlp/discord-interactions-go) - discord interactions
 - [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper
-- [disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
+- [disgord](https://github.com/andersfylling/disgord) **(archived)** - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
 - [goscord](https://github.com/Goscord/goscord) - A Discord API wrapper written in Golang.
 
 ### Haskell
