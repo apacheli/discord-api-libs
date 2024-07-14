@@ -112,6 +112,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [interactions.js](https://github.com/fb-sean/interactions.js) - 🤖 A powerful Javascript library  to work with discords interactions
 - [js-cord](https://github.com/jay3332/js-cord) - js-cord is a wrapper around the Discord API, written and to be used in Javascript.
+- [discord-bolt](https://github.com/amirfarzamnia/discord-bolt) - The fastest and most straightforward Discord bot library for Node.js.
 
 ### Julia
 
