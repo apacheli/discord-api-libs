@@ -160,7 +160,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [interactions.py](https://github.com/interactions-py/interactions.py) - A highly extensible, easy to use, and feature complete bot framework for Discord
 - [NAFF](https://github.com/NAFTeam/NAFF) **(archived)** - A Python API wrapper for Discord
 - [nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
-- [pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+- [pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 
 ### Racket
 
