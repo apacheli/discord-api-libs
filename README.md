@@ -37,6 +37,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [Discore](https://github.com/Francessco121/Discore) - A light-weight .NET library for creating Discord bots.
 - [Disqord](https://github.com/Quahu/Disqord) - Asynchronous Discord API wrapper and bot framework for .NET.
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET library for making bots using the Discord API.
+- [NetCord](https://github.com/NetCordDev/NetCord) - The modern and fully customizable C# Discord library.
 - [Remora.Discord](https://github.com/Remora/Remora.Discord) - A data-oriented C# Discord library, focused on high-performance concurrency and robust design.
 
 ### C++

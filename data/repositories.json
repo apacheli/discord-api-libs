@@ -71,6 +71,7 @@
   "https://github.com/MinnDevelopment/jda-ktx",
   "https://github.com/ms7m/dispike",
   "https://github.com/NAFTeam/NAFF",
+  "https://github.com/NetCordDev/NetCord",
   "https://github.com/nextcord/nextcord",
   "https://github.com/nuclearace/SwiftDiscord",
   "https://github.com/nyxx-discord/nyxx",
@@ -106,6 +107,5 @@
   "https://github.com/valzargaming/Nyasmin",
   "https://github.com/Xh4H/Discord.jl",
   "https://github.com/yourWaifu/sleepy-discord",
-  "https://github.com/zeroxs/aegis.cpp",
-  "https://github.com/NetCordDev/NetCord"
+  "https://github.com/zeroxs/aegis.cpp"
 ]
