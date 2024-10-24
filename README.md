@@ -121,7 +121,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### Kotlin
 
 - [Discord.Kt](https://github.com/Jofairden/Discord.Kt) - A discord library written in Kotlin for Kotlin/JVM
-- [diskord](https://github.com/JesseCorbett/diskord) - [Mirror of GitLab] A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.
+- [diskord](https://github.com/JesseCorbett/diskord) - A Kotlin client for Discord with a light wrapper on the REST APIs and a simple to use DSL for basic bots.
 - [jda-ktx](https://github.com/MinnDevelopment/jda-ktx) - Collection of useful Kotlin extensions for JDA
 - [kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
 
