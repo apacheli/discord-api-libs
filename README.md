@@ -21,6 +21,10 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ## Libraries
 
+### Ballerina
+
+- [module-ballerinax-discord](https://github.com/ballerina-platform/module-ballerinax-discord) - 
+
 ### C
 
 - [concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C

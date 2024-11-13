@@ -5,6 +5,7 @@
   "https://github.com/Azoy/Sword",
   "https://github.com/b1naryth1ef/disco",
   "https://github.com/b1naryth1ef/dscord",
+  "https://github.com/ballerina-platform/module-ballerinax-discord",
   "https://github.com/brainboxdotcc/DPP",
   "https://github.com/breqdev/flask-discord-interactions",
   "https://github.com/bsdlp/discord-interactions-go",
@@ -107,6 +108,5 @@
   "https://github.com/valzargaming/Nyasmin",
   "https://github.com/Xh4H/Discord.jl",
   "https://github.com/yourWaifu/sleepy-discord",
-  "https://github.com/zeroxs/aegis.cpp",
-  "https://github.com/ballerina-platform/module-ballerinax-discord"
+  "https://github.com/zeroxs/aegis.cpp"
 ]
