@@ -23,7 +23,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Ballerina
 
-- [module-ballerinax-discord](https://github.com/ballerina-platform/module-ballerinax-discord) - 
+- [module-ballerinax-discord](https://github.com/ballerina-platform/module-ballerinax-discord) - The Ballerina connector for Discord REST API.
 
 ### C
 
