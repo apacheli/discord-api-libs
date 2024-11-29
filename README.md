@@ -204,6 +204,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### TypeScript
 
+- [arcscord](https://github.com/arcscord/arcscord) - A discord.js framework, slash command first and full typescript !
 - [client](https://github.com/detritusjs/client) - A Typescript NodeJS library to interact with Discord's API, both Rest and Gateway.
 - [core](https://github.com/dirigeants/core) **(archived)** - Discord API library
 - [Deno-Discord-Slash-Commands](https://github.com/Redstoneguy129/Deno-Discord-Slash-Commands) - Deno Slash Commands for Discord
@@ -214,6 +215,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [droff](https://github.com/tim-smart/droff) - Simple Discord client powered by RxJS and Axios
 - [framework](https://github.com/sapphiredev/framework) - Discord bot framework built on top of discord.js for advanced and amazing bots.
 - [harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
+- [seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [skycord](https://github.com/skycord/skycord) - 
 - [slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [voice](https://github.com/discordjs/voice) **(archived)** - Implementation of the Discord Voice API for discord.js and other JS/TS libraries
