@@ -183,7 +183,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### Rust
 
 - [accord](https://github.com/passcod/accord) **(archived)** - Discord API client to power Discord API clients via the power of love, friendship, and HTTP 💖
-- [automate](https://github.com/mbenoukaiss/automate) - An asynchronous library to interact with Discord API
+- [automate](https://github.com/mbenoukaiss/automate) **(archived)** - An asynchronous library to interact with Discord API
 - [discord-rs](https://github.com/SpaceManiac/discord-rs) - Rust library for the Discord chat client API
 - [serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [songbird](https://github.com/serenity-rs/songbird) - An async Rust library for the Discord voice API
