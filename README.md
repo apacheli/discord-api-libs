@@ -41,7 +41,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [Discore](https://github.com/Francessco121/Discore) - A light-weight .NET library for creating Discord bots.
 - [Disqord](https://github.com/Quahu/Disqord) - Asynchronous Discord API wrapper and bot framework for .NET.
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET library for making bots using the Discord API.
-- [NetCord](https://github.com/NetCordDev/NetCord) - A modern, lightweight, and customizable C# Discord library with native AOT support, immutable caching, voice capabilities, and complete API coverage.
+- [NetCord](https://github.com/NetCordDev/NetCord) - A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.
 - [Remora.Discord](https://github.com/Remora/Remora.Discord) - A data-oriented C# Discord library, focused on high-performance concurrency and robust design.
 
 ### C++
@@ -51,7 +51,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [discordpp](https://github.com/DiscordPP/discordpp) - A Modularized C++ Library for the Discord API
 - [DisCPP](https://github.com/DisCPP/DisCPP) **(archived)** - Simplified, but feature rich Discord API wrapper written in modern C++.
 - [DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
-- [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 
 ### Clojure
 
