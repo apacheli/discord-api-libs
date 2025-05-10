@@ -65,7 +65,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Crystal
 
-- [discordcr](https://github.com/discordcr/discordcr) **(archived)** - Minimalist Discord library for Crystal. (Still WIP, but usable)
+- [discordcr](https://github.com/shardlab/discordcr) - Minimalist Discord library for Crystal
 
 ### D
 
