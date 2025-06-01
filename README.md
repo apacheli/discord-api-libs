@@ -83,6 +83,10 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [crux](https://github.com/SpaceEEC/crux) **(archived)** - Repository creating the umbrella documentation for all crux libraries
 - [nostrum](https://github.com/Kraigie/nostrum) - Elixir Discord Library
 
+### Gleam
+
+- [discord_gleam](https://github.com/Cyteon/discord_gleam) - A library to create discord bots in gleam
+
 ### Go
 
 - [arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API.
