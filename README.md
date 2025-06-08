@@ -85,7 +85,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Gleam
 
-- [discord_gleam](https://github.com/Cyteon/discord_gleam) - A library to create discord bots in gleam
+- [discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam
 
 ### Go
 
