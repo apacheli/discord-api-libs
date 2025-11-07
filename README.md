@@ -78,7 +78,6 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 ### Elixir
 
 - [alchemy](https://github.com/cronokirby/alchemy) **(archived)** - A discord library for Elixir
-- [concoction](https://github.com/jb3/concoction) - Concoction is a Discord library for Elixir.
 - [coxir](https://github.com/satom99/coxir) - A modern Elixir wrapper for Discord.
 - [crux](https://github.com/SpaceEEC/crux) **(archived)** - Repository creating the umbrella documentation for all crux libraries
 - [nostrum](https://github.com/Kraigie/nostrum) - Elixir Discord Library
@@ -119,7 +118,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [discord.io](https://github.com/izy521/discord.io) **(archived)** - A small, single-file library for creating DiscordApp clients from Node.js or the browser
 - [discordie](https://github.com/qeled/discordie) - Predictable JavaScript abstractions for Discord API.
 - [eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
-- [interactions.js](https://github.com/fb-sean/interactions.js) - 🤖 A powerful Javascript library  to work with discords interactions
+- [interactions.js](https://github.com/fb-sean/interactions.js) **(archived)** - 🤖 A powerful Javascript library  to work with discords interactions
 - [js-cord](https://github.com/jay3332/js-cord) - js-cord is a wrapper around the Discord API, written and to be used in Javascript.
 
 ### Julia
