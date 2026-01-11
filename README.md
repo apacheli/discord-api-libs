@@ -203,7 +203,6 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 
 ### Swift
 
-- [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - The lightweight, native Swift library
 - [SwiftDiscord](https://github.com/nuclearace/SwiftDiscord) - Discord API Client for Swift
 - [Sword](https://github.com/Azoy/Sword) **(archived)** - Discord library for Swift
 
