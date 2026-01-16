@@ -169,7 +169,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [NAFF](https://github.com/NAFTeam/NAFF) **(archived)** - A Python API wrapper for Discord
 - [nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
 - [pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
-- [scurrypy](https://github.com/scurry-works/scurrypy) - Minimal, explicit Discord client for devs who want clarity and control
+- [scurrypy](https://github.com/scurry-works/scurrypy) - Minimal, explicit Discord API wrapper designed for clarity and control
 
 ### Racket
 
