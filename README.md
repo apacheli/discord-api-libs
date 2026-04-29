@@ -93,7 +93,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper
 - [disgord](https://github.com/andersfylling/disgord) **(archived)** - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
-- [goscord](https://github.com/Goscord/goscord) - A Discord API wrapper written in Golang.
+- [goscord](https://github.com/Goscord/goscord) **(archived)** - A Discord API wrapper written in Golang.
 
 ### Haskell
 
