@@ -217,6 +217,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands) - Node.JS Slash Commands for Discord
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
+- [dressed](https://github.com/Inbestigator/dressed) - A sleek, serverless-ready Discord API library.
 - [droff](https://github.com/tim-smart/droff) - Simple Discord client powered by RxJS and Axios
 - [framework](https://github.com/sapphiredev/framework) - Discord bot framework built on top of discord.js for advanced and amazing bots.
 - [harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
