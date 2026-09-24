@@ -38,7 +38,7 @@ Something off? Want to contribute? Take a peek at [our contributing guide](CONTR
 - [Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs) **(archived)** - An experimental fork of Discord.Net that implements the newest discord features for testing and development to eventually get merged into Discord.Net
 - [DiscordUnity](https://github.com/DiscordUnity/DiscordUnity) - A DiscordAPI made for Unity and only usable for Unity. It contains special features to make it all work.
-- [Discore](https://github.com/Francessco121/Discore) - A light-weight .NET library for creating Discord bots.
+- [Discore](https://github.com/Francessco121/Discore) **(archived)** - A light-weight .NET library for creating Discord bots.
 - [Disqord](https://github.com/Quahu/Disqord) - Asynchronous Discord API wrapper and bot framework for .NET.
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET library for making bots using the Discord API.
 - [NetCord](https://github.com/NetCordDev/NetCord) - A modern, lightweight, and customizable C# Discord library with Native AOT support, immutable caching, voice capabilities, and complete API coverage.
